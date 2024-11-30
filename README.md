@@ -1,4 +1,4 @@
-# 此仓库为秋风广告规则为 HostlistsRegistry 
+# 此仓库为[秋风广告规则](https://github.com/TG-Twilight/AWAvenue-Ads-Rule)为 HostlistsRegistry 
 
 # 添加规则的仓库页面，
 
