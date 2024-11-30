@@ -214,5 +214,8 @@
 	{
 		"hostlist.56.name": "HaGeZi's The World's Most Abused TLDs",
 		"hostlist.56.description": "The Top Most Abused Top Level Domains, merged from HaGeZi, Yokoffing, DandelionSprout and SpamHAUS."
+	},
+	{
+		"hostlist.60.description": "Blocks Xiaomi native broadband trackers that track your activity."
 	}
 ]

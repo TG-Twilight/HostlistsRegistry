@@ -1,16 +1,12 @@
 !
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
+! Version: 1.0.14.59
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2024-03-15T06:06:38.267Z
+! Last modified: 2024-11-27T12:37:35.240Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.23
+! Compiled by @adguard/hostlist-compiler v1.0.29
 !
-!
-! Source name: Dan Pollock's List
-! Source: https://someonewhocares.org/hosts/zero/hosts
-!
-# For example, to block unpleasant pages, try:
 0.0.0.0 goatse.cx       # More information on sites such as 
 0.0.0.0 www.goatse.cx   # these can be found in this article
 0.0.0.0 oralse.cx       # en.wikipedia.org/wiki/List_of_shock_sites
@@ -195,13 +191,6 @@
 0.0.0.0 www.zentastic.com
 0.0.0.0 youaresogay.com
 0.0.0.0 zentastic.com
-# The sites ads234.com and ads345.com -- These sites hijack internet explorer 
-# and redirect all requests through their servers. You may need to use spyware 
-# removal programs such as SpyBotS&amp;D, AdAware or HijackThis to remove this 
-# nasty parasite. It's possible that blocking these sites using a hosts file 
-# may not work, in which case you should remove the following lines from this
-# file and try the tools listed above immediately. Don't forget to reboot 
-# after a scan.
 0.0.0.0 ads234.com
 0.0.0.0 ads345.com
 0.0.0.0 www.ads234.com
@@ -1446,10 +1435,12 @@
 0.0.0.0 xyz.freelogs.com
 0.0.0.0 zz.cqcounter.com
 
-# sites with known trojans, phishing, or other malware
 0.0.0.0 0.nextyourcontent.com
 0.0.0.0 05tz2e9.com
+0.0.0.0 1-bmo-client-login.com
+0.0.0.0 1-directshipmtdhlsexpress-order.help
 0.0.0.0 1001paixnidia.fr
+0.0.0.0 105915624.com
 0.0.0.0 10tide.com
 0.0.0.0 1percent.fr
 0.0.0.0 2006mindfreaklike.blogspot.com	# Facebook trojan
@@ -1460,6 +1451,7 @@
 0.0.0.0 247blinds.fr
 0.0.0.0 2g312kn32qfy-1323053341.cos.ap-bangkok.myqcloud.com
 0.0.0.0 2roueselectrique.fr
+0.0.0.0 2x1gratis.com
 0.0.0.0 3mfrances.fr
 0.0.0.0 59-106-20-39.r-bl100.sakura.ne.jp
 0.0.0.0 6range.fr
@@ -1530,12 +1522,14 @@
 0.0.0.0 allomine.fr
 0.0.0.0 almaria.fr
 0.0.0.0 alocdn.com
+0.0.0.0 alojamientocentroleon.es
 0.0.0.0 alphardgolf.fr
 0.0.0.0 alphlauren.fr
 0.0.0.0 alzy.fr
 0.0.0.0 amayaresorts.fr
 0.0.0.0 americankitchen.fr
 0.0.0.0 ams1.ib.adnxs.com
+0.0.0.0 ams2.rumourrubicon.com
 0.0.0.0 ancree.fr
 0.0.0.0 android.bigresource.com
 0.0.0.0 androiddev.orkitra.com
@@ -1721,6 +1715,8 @@
 0.0.0.0 canadapost-delivery-reshedule.com
 0.0.0.0 canadapost-paymentservice.com
 0.0.0.0 canadapost-postescanada.uwpackege.top
+0.0.0.0 canadapost.helpdag.top
+0.0.0.0 canadapost.postescanadad.xyz
 0.0.0.0 canadapostarticle.com
 0.0.0.0 capitalregionusa.fr
 0.0.0.0 capostdelivery.com
@@ -1811,6 +1807,7 @@
 0.0.0.0 con-trnroayl.online
 0.0.0.0 conduit.com
 0.0.0.0 confg.fr
+0.0.0.0 confirm1509account4715.com
 0.0.0.0 conseil-coaching-jardinage.fr
 0.0.0.0 conseildentaire.fr
 0.0.0.0 consorsbank.fr
@@ -1861,6 +1858,7 @@
 0.0.0.0 denx.fr
 0.0.0.0 department06.fr
 0.0.0.0 deposit-cra2023.com
+0.0.0.0 deposit-et-1interac.help
 0.0.0.0 depositphotos.fr
 0.0.0.0 depottool.bond
 0.0.0.0 details-update.com
@@ -1868,6 +1866,7 @@
 0.0.0.0 dewinci.fr
 0.0.0.0 dfnac.fr
 0.0.0.0 dhauzja511.co.cc
+0.0.0.0 dhlmyorder82662-info-can.com
 0.0.0.0 digiclk.com
 0.0.0.0 digicub.fr
 0.0.0.0 digipote.fr
@@ -1933,6 +1932,7 @@
 0.0.0.0 et-interac.etransfers1.com
 0.0.0.0 et-mycostcorewards.info
 0.0.0.0 etdeposit-interac.com
+0.0.0.0 etransfer-23799.com
 0.0.0.0 etribunaldunet.fr
 0.0.0.0 euriosport.fr
 0.0.0.0 europr1.fr
@@ -2016,6 +2016,7 @@
 0.0.0.0 ftdownload.com
 0.0.0.0 fu.golikeus.net			# Facebook trojan
 0.0.0.0 g2play.fr
+0.0.0.0 gabrielahlavack.samcart.com
 0.0.0.0 gadgetsytecnologia.com
 0.0.0.0 gagy.fr
 0.0.0.0 gaiaherbs.fr
@@ -2089,6 +2090,7 @@
 0.0.0.0 heuither.sbs
 0.0.0.0 hfrni.comfortykive.xyz
 0.0.0.0 hibody.fr
+0.0.0.0 hie.li
 0.0.0.0 hifa.fr
 0.0.0.0 himicrosoft.com
 0.0.0.0 hintonsfeetred.info
@@ -2115,6 +2117,7 @@
 0.0.0.0 hp.myway.com
 0.0.0.0 hradware.fr
 0.0.0.0 hsb-canada.com	# phishing site for hsbc.ca
+0.0.0.0 https-ticketnotice.com
 0.0.0.0 huffingtopost.fr
 0.0.0.0 hunkemoeller.fr
 0.0.0.0 hunkemuller.fr
@@ -2211,6 +2214,7 @@
 0.0.0.0 kuder.fr
 0.0.0.0 kweiqox.beauty
 0.0.0.0 l-histoire.fr
+0.0.0.0 l.wl.co
 0.0.0.0 la1dwne9cn5c.com
 0.0.0.0 laatribune.fr
 0.0.0.0 labanquepoqtale.fr
@@ -2362,6 +2366,7 @@
 0.0.0.0 makeitmedia.fr
 0.0.0.0 makerblog.fr
 0.0.0.0 makesushi.fr
+0.0.0.0 manage2-phone7alerts.com
 0.0.0.0 mandialrelay.fr
 0.0.0.0 mappyt.fr
 0.0.0.0 marathondulacduder.fr
@@ -2422,10 +2427,12 @@
 0.0.0.0 missdiva.fr
 0.0.0.0 missetam.fr
 0.0.0.0 mlefigaro.fr
+0.0.0.0 mlpoo11-secondary.z13.web.core.windows.net
 0.0.0.0 mn.mn.co.cu
 0.0.0.0 mnecraft.fr
 0.0.0.0 mnutan.fr
 0.0.0.0 mobevo.fr
+0.0.0.0 mobile.parkandpay-ca.com
 0.0.0.0 mobilesoft.fr
 0.0.0.0 mobpushup.com
 0.0.0.0 moddb.fr
@@ -2470,6 +2477,7 @@
 0.0.0.0 myornamenti.com
 0.0.0.0 myprivateemails.com
 0.0.0.0 myquiz.fr
+0.0.0.0 myrogers-dashboard-signin.net
 0.0.0.0 mytee.fr
 0.0.0.0 mywifiext.fr
 0.0.0.0 n1up.fr
@@ -2578,6 +2586,8 @@
 0.0.0.0 pantaya.fr
 0.0.0.0 paris-banlieue-meetinggame.fr
 0.0.0.0 passportindex.fr
+0.0.0.0 payments-details.com
+0.0.0.0 payplintelverify3.site
 0.0.0.0 paysdepieces.fr
 0.0.0.0 paytel.fr
 0.0.0.0 pbworks.fr
@@ -2663,6 +2673,7 @@
 0.0.0.0 proidees.fr
 0.0.0.0 projectpoi.com
 0.0.0.0 promogrim.fr
+0.0.0.0 promojustforyou.click
 0.0.0.0 propitea.fr
 0.0.0.0 provence-ouyillage.fr
 0.0.0.0 provenfeedback.com
@@ -2676,6 +2687,7 @@
 0.0.0.0 qbittorrent.com
 0.0.0.0 qevia.doubleclick.bond
 0.0.0.0 qfsya.comfortykive.xyz
+0.0.0.0 qouv.fr
 0.0.0.0 quaidesbulles.fr
 0.0.0.0 question2answer.com
 0.0.0.0 quickchess.fr
@@ -2684,14 +2696,20 @@
 0.0.0.0 qyh.co.ua
 0.0.0.0 radio42.fr
 0.0.0.0 randki-sex.com
+0.0.0.0 rapid-glade-cde8.asoumare042024.workers.dev
 0.0.0.0 raptp.fr
 0.0.0.0 rb-on1in-sec.com
 0.0.0.0 rbc-anth-ogrn.com
+0.0.0.0 rbc-clientsupport1.com
 0.0.0.0 reacherinst.com
 0.0.0.0 realstar.fr
 0.0.0.0 recettes-vegetariennes.fr
 0.0.0.0 recevoirlatntn.fr
+0.0.0.0 recover-subscription.com
 0.0.0.0 redeastbay.com
+0.0.0.0 redelivauthcentre.com
+0.0.0.0 redelivercadpost.com
+0.0.0.0 redelivtls.online
 0.0.0.0 redf.fr
 0.0.0.0 redline-boutique.fr
 0.0.0.0 redrocks.fr
@@ -2718,6 +2736,7 @@
 0.0.0.0 rockrose.fr
 0.0.0.0 rocks.io
 0.0.0.0 rockthebretzel.fr
+0.0.0.0 rogers-wirelessphone.com
 0.0.0.0 roivant.fr
 0.0.0.0 rojadirectatv.fr
 0.0.0.0 romdiscover.com
@@ -2743,6 +2762,8 @@
 0.0.0.0 schlaukopf.fr
 0.0.0.0 sciencesetlavenir.fr
 0.0.0.0 scoietegenerale.fr
+0.0.0.0 scotiahelp-loginscotia.com
+0.0.0.0 scotiaonline-verification.com
 0.0.0.0 scottishstuff-online.com	# Canadian bank phishing site
 0.0.0.0 screenaddict.thewhizproducts.com
 0.0.0.0 screencast-o-matic.fr
@@ -2772,7 +2793,9 @@
 0.0.0.0 sensahome.fr
 0.0.0.0 sephor.fr
 0.0.0.0 serff.fr
+0.0.0.0 serv-canada2024.com
 0.0.0.0 servpro.fr
+0.0.0.0 setup-mydelivery-date6437-fedex.com
 0.0.0.0 shapado.com
 0.0.0.0 sharelink.fr
 0.0.0.0 shiiva.fr
@@ -2911,7 +2934,6 @@
 0.0.0.0 traffic-bam.link
 0.0.0.0 traffic.adwitty.com
 0.0.0.0 tranisere.fr
-0.0.0.0 transfer.sh
 0.0.0.0 trauiqce.click
 0.0.0.0 trioadvisor.fr
 0.0.0.0 trk.wizzdeal.trade
@@ -3185,6 +3207,7 @@
 0.0.0.0 wyoutube.fr
 0.0.0.0 xcdkb.comfortykive.xyz
 0.0.0.0 xen-media.com
+0.0.0.0 xn--80afden1bnch4a.xn--p1ai
 0.0.0.0 xn--oogle-wmc.com
 0.0.0.0 xpx7heciz9.com
 0.0.0.0 xxlargepop.com
@@ -3203,6 +3226,7 @@
 0.0.0.0 yrwap.cn
 0.0.0.0 yummie.fr
 0.0.0.0 yves-rocker.fr
+0.0.0.0 z3.skdfoiqwjelmdkfser.ru
 0.0.0.0 zalanado.fr
 0.0.0.0 zalandon.fr
 0.0.0.0 zb1.zeroredirect1.com
@@ -3321,7 +3345,6 @@
 0.0.0.0 telstra.imrworldwide.com
 0.0.0.0 www.redsheriff.com
 
-# cydoor -- server side tracking
 0.0.0.0 cydoor.com
 0.0.0.0 j.2004cms.com
 0.0.0.0 jbaventures.cjt1.net
@@ -3847,7 +3870,6 @@
 0.0.0.0 ziffdavisglobal.112.2o7.net
 0.0.0.0 ziffdavispennyarcade.112.2o7.net
 
-# oewabox.at -- 'Austrian Webanalysis Society'
 0.0.0.0 1000ps.oewabox.at
 0.0.0.0 afinder.oewabox.at
 0.0.0.0 alphalux.oewabox.at
@@ -3974,7 +3996,6 @@
 0.0.0.0 wohnnet.oewabox.at
 0.0.0.0 zfm.oewabox.at
 
-# Pegasus spyware sites.
 0.0.0.0 24-7clinic.com
 0.0.0.0 365redirect.co
 0.0.0.0 a-redirect.com
@@ -4647,6 +4668,7 @@
 0.0.0.0 ad.deviantart.com
 0.0.0.0 ad.directmirror.com
 0.0.0.0 ad.directrev.com
+0.0.0.0 ad.dnoticias.pt
 0.0.0.0 ad.doganburda.com
 0.0.0.0 ad.doublemax.net
 0.0.0.0 ad.duga.jp
@@ -4946,6 +4968,7 @@
 0.0.0.0 adcontent.gamespy.com
 0.0.0.0 adcontent.reedbusiness.com
 0.0.0.0 adcontroller.unicast.com
+0.0.0.0 adcovery.com
 0.0.0.0 adcycle.footymad.net
 0.0.0.0 add.f5haber.com
 0.0.0.0 addelivery.thestreet.com
@@ -6026,6 +6049,7 @@
 0.0.0.0 amrytt.adk2x.com
 0.0.0.0 ams1-ib.adnxs.com
 0.0.0.0 ams1-mobile.adnxs.com
+0.0.0.0 ams2.rumourobey.com
 0.0.0.0 amusun.com
 0.0.0.0 an.tacoda.net
 0.0.0.0 an.yandex.ru
@@ -6323,6 +6347,7 @@
 0.0.0.0 blogads.com
 0.0.0.0 blogvertising.pl
 0.0.0.0 bloodsugarberry.com
+0.0.0.0 bloodsugrs.shop
 0.0.0.0 blu.mobileads.msn.com
 0.0.0.0 blueconic.net
 0.0.0.0 bluediamondoffers.com
@@ -6977,6 +7002,7 @@
 0.0.0.0 dysoool.com
 0.0.0.0 e.baidu.com
 0.0.0.0 e.company-target.com
+0.0.0.0 e.email.simon.com
 0.0.0.0 e.serverbid.com
 0.0.0.0 e0.extreme-dm.com
 0.0.0.0 e1.addthis.com
@@ -7270,6 +7296,7 @@
 0.0.0.0 getmyads24.com
 0.0.0.0 getmyfreegiftcard.com
 0.0.0.0 getrelator.com
+0.0.0.0 getrunkhomuto.info
 0.0.0.0 getrxhere.co
 0.0.0.0 getspecialgifts.com
 0.0.0.0 getyour5kcredits0.blogspot.com
@@ -7332,7 +7359,6 @@
 0.0.0.0 h-adashx4ae.ut.taobao.com
 0.0.0.0 h-afnetwww.adshuffle.com
 0.0.0.0 h.ppjol.com
-0.0.0.0 h.seznam.cz
 0.0.0.0 h1.helenrosi.com
 0.0.0.0 h2.helenrosi.com
 0.0.0.0 h3.helenrosi.com
@@ -7630,7 +7656,6 @@
 0.0.0.0 j6.jmooreassoc.com
 0.0.0.0 j7.jinghuaqitb.com
 0.0.0.0 j7.jmooreassoc.com
-0.0.0.0 jac.yahoosandbox.com
 0.0.0.0 jadserve.postrelease.com
 0.0.0.0 jambocast.com
 0.0.0.0 jav.ee
@@ -7763,6 +7788,7 @@
 0.0.0.0 l.qq.com
 0.0.0.0 l.yieldmanager.net
 0.0.0.0 l2.l.qq.com
+0.0.0.0 labashl.de
 0.0.0.0 laborex.hu
 0.0.0.0 ladyclicks.ru
 0.0.0.0 laltraimmagine.ss.it
@@ -8059,6 +8085,7 @@
 0.0.0.0 mjlunalaw.com
 0.0.0.0 mjonkers.nl
 0.0.0.0 mjxads.internet.com
+0.0.0.0 mk.limonshel.de
 0.0.0.0 mklik.gazeta.pl
 0.0.0.0 ml314.com
 0.0.0.0 mlntracker.com
@@ -8076,6 +8103,8 @@
 0.0.0.0 mobrevflwms.com
 0.0.0.0 mochibot.com
 0.0.0.0 modescrips.info
+0.0.0.0 modlily.com
+0.0.0.0 modlily.net
 0.0.0.0 mokavilag.com
 0.0.0.0 monarchy.nl
 0.0.0.0 monetate.net
@@ -8587,6 +8616,7 @@
 0.0.0.0 premiumproductsonline.com
 0.0.0.0 prestoris.com
 0.0.0.0 prexyone.appspot.com
+0.0.0.0 prfctlivs.click
 0.0.0.0 primetime.ad.primetime.net
 0.0.0.0 primusbelgium.com
 0.0.0.0 privatecollection.top
@@ -9266,7 +9296,6 @@
 0.0.0.0 statsie.com
 0.0.0.0 stephanie.tnctrx.com
 0.0.0.0 stocker.bonnint.net
-0.0.0.0 stoiximan.gr
 0.0.0.0 stompebi.link
 0.0.0.0 storage.softure.com
 0.0.0.0 storage.trafic.ro
@@ -9434,6 +9463,7 @@
 0.0.0.0 tmx.technoratimedia.com
 0.0.0.0 toads.osdn.com
 0.0.0.0 todayresearch.com
+0.0.0.0 toiletpaper.life
 0.0.0.0 tommasobuglioni.com
 0.0.0.0 tommysbookmarks.com
 0.0.0.0 tommysbookmarks.net
@@ -9493,6 +9523,7 @@
 0.0.0.0 tracking.veoxa.com
 0.0.0.0 trackvoluum.com
 0.0.0.0 tradearabia.advertserve.com
+0.0.0.0 tradecore.tradehouse.media
 0.0.0.0 tradelax.com
 0.0.0.0 tradem.com
 0.0.0.0 tradetracker.net
@@ -9574,6 +9605,7 @@
 0.0.0.0 uk-ads.openx.net
 0.0.0.0 uk.adserver.yahoo.com
 0.0.0.0 uk.bitcoinfreedom-appl.t500track42.com
+0.0.0.0 ukrashulya.ru
 0.0.0.0 uktc.ijento.com
 0.0.0.0 ultrasponsor.com
 0.0.0.0 ulusalofis.com
@@ -9759,6 +9791,7 @@
 0.0.0.0 whos.amung.us
 0.0.0.0 widespace.com
 0.0.0.0 widget.achetezfacile.com
+0.0.0.0 widget.adcovery.com
 0.0.0.0 widget3.linkwithin.com
 0.0.0.0 widget5.linkwithin.com
 0.0.0.0 widgets.amung.us
@@ -9926,6 +9959,7 @@
 0.0.0.0 www.aureate.com
 0.0.0.0 www.autohipnose.com
 0.0.0.0 www.automotive-offer.com
+0.0.0.0 www.avenues-inc.com
 0.0.0.0 www.avsads.com
 0.0.0.0 www.awltovhc.com
 0.0.0.0 www.baba-t.com
@@ -10737,7 +10771,6 @@
 0.0.0.0 in.yimg.com
 0.0.0.0 us.a1.yimg.com
 
-# hitbox.com web bugs
 0.0.0.0 adminec1.hitbox.com
 0.0.0.0 ads.hitbox.com
 0.0.0.0 ai.hitbox.com
@@ -11030,7 +11063,6 @@
 0.0.0.0 yang.hitbox.com
 0.0.0.0 ying.hitbox.com
 
-# www.extreme-dm.com tracking
 0.0.0.0 extreme-dm.com
 0.0.0.0 reports.extreme-dm.com
 0.0.0.0 t.extreme-dm.com
@@ -11054,7 +11086,6 @@
 0.0.0.0 z0.extreme-dm.com
 0.0.0.0 z1.extreme-dm.com
 
-# realmedia.com's Open Ad Stream
 0.0.0.0 ap.oasfile.aftenposten.no
 0.0.0.0 oas-central.east.realmedia.com
 0.0.0.0 oas-central.realmedia.com
@@ -11167,10 +11198,8 @@
 0.0.0.0 oascentral.zwire.com
 0.0.0.0 oascentralnx.comcast.net
 
-# fastclick banner ads
 0.0.0.0 fastclick.net
 
-# belo interactive ads
 0.0.0.0 te.about.com
 0.0.0.0 te.adlandpro.com
 0.0.0.0 te.advance.net
@@ -11194,7 +11223,6 @@
 0.0.0.0 te.trb.com
 0.0.0.0 te.versiontracker.com
 
-# popup traps -- sites that bounce you around or won't let you leave
 0.0.0.0 adultfriendfinder.com
 0.0.0.0 incestland.com
 0.0.0.0 lesview.com
@@ -11732,7 +11760,6 @@
 0.0.0.0 zyrtec.3.p2l.info
 0.0.0.0 zyrtec.4.p2l.info
 
-# Windows 10 reporting domains. 
 0.0.0.0 a.ads2.msads.net
 0.0.0.0 adnexus.net
 0.0.0.0 aidps.atdmt.com
@@ -11758,37 +11785,4 @@
 0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 wes.df.telemetry.microsoft.com
 
-# Acknowledgements
-# I'd like to thank the following people for submitting sites, and
-# helping promote the site.
 
-# Bill Allison, Harj Basi, Lance Russhing, Marshall Drew-Brook, 
-#  Leigh Brasington, Scott Terbush, Cary Newfeldt, Kaye, Jeff
-#  Scrivener, Mark Hudson, Matt Bells, T. Kim Nguyen, Lino Demasi,
-#  Marcelo Volmaro, Troy Martin, Donald Kerns, B.Patten-Walsh,
-#  bobeangi, Chris Maniscalco, George Gilbert, Kim Nilsson, zeromus,
-#  Robert Petty, Rob Morrison, Clive Smith, Cecilia Varni, OleKing 
-#  Cole, William Jones, Brian Small, Raj Tailor, Richard Heritage,
-#  Alan Harrison, Ordorica, Crimson, Joseph Cianci, sirapacz, 
-#  Dvixen, Matthew Craig, Tobias Hessem, Kevin F. Quinn, Thomas 
-#  Corthals, Chris McBee, Jaime A. Guerra, Anders Josefson, 
-#  Simon Manderson, Spectre Ghost, Darren Tay, Dallas Eschenauer, Cecilia
-#  Varni, Adam P. Cole, George Lefkaditis, grzesiek, Adam Howard, Mike 
-#  Bizon, Samuel P. Mallare, Leinweber, Walter Novak, Stephen Genus, 
-#  Zube, Johny Provoost, Peter Grafton, Johann Burkard, Magus, Ron Karner,
-#  Fredrik Dahlman, Michele Cybula, Bernard Conlu, Riku B, Twillers, 
-#  Shaika-Dzari, Vartkes Goetcherian, Michael McCown, Garth, Richard Nairn,
-#  Exzar Reed, Robert Gauthier, Floyd Wilder, Mark Drissel, Kenny Lyons,
-#  Paul Dunne, Tirath Pannu, Mike Lambert, Dan Kolcun, Daniel Aleksandersen,
-#  Chris Heegard, Miles Golding, Daniel Bisca, Frederic Begou, Charles 
-#  Fordyce, Mark Lehrer, Sebastien Nadeau-Jean, Russell Gordon, Alexey 
-#  Gopachenko, Stirling Pearson, Alan Segal, Bobin Joseph, Chris Wall, Sean
-#  Flesch, Brent Getz, Jerry Cain, Brian Micek, Lee Hancock, Kay Thiele,
-#  Kwan Ting Chan, Wladimir Labeikovsky, Lino Demasi, Bowie Bailey, Andreas 
-#  Marschall, Michael Tompkins, Michael O'Donnell, Jos&eacute; Lucas Teixeira
-#  de Oliveira, M. &Ouml;mer G&ouml;lgeli, and Anthony Gelibert for helping to build 
-#  the hosts file.
-# Russell O'Connor for OS/2 information
-# kwadronaut for Windows 7 and Vista information
-# John Mueller and Lawrence H Smith for Mac Pre-OSX information
-# Jesse Baird for the Cisco IOS script

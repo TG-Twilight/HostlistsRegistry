@@ -1,23 +1,12 @@
 !
 ! Title: HaGeZi's Allowlist Referral
 ! Description: This list unblocks affiliate & tracking referral links that appear in mails, search results etc.
+! Version: 1.0.14.62
 ! Homepage: https://github.com/hagezi/dns-blocklists#referral
-! Last modified: 2024-03-14T03:05:49.589Z
+! Last modified: 2024-11-28T17:05:45.830Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.23
+! Compiled by @adguard/hostlist-compiler v1.0.29
 !
-!
-! Source name: HaGeZi's Allowlist Referral
-! Source: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-referral.txt
-!
-! Title: HaGeZi's Allowlist Referral
-! Description: This list unblocks affiliate & tracking referral links that appear in mails, search results etc.
-! Homepage: https://github.com/hagezi/dns-blocklists
-! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
-! Issues: https://github.com/hagezi/dns-blocklists/issues
-! Expires: Updated regularly
-! Syntax: AdBlock
-
 @@||l.1mp.ru^
 @@||t.1und1.de^
 @@||bestbuy.7tiv.net^
@@ -29,6 +18,8 @@
 @@||acemlnb.com^
 @@||adfoc.us^
 @@||adj.st^
+@@||adscendmedia.com^
+@@||adspeed.net^
 @@||adzerk.com^
 @@||adzerk.net^
 @@||affiliatefuture.com^
@@ -47,6 +38,7 @@
 @@||aylink.co^
 @@||beehiiv.com^
 @@||bfast.com^
+@@||bigcattracks.com^
 @@||bizrate.com^
 @@||bnc.lt^
 @@||buff.ly^
@@ -54,6 +46,7 @@
 @@||cj.com^
 @@||clck.ru^
 @@||click-trk.com^
+@@||clickcease.com^
 @@||clickdimensions.com^
 @@||clickiocdn.com^
 @@||clicktale.net^
@@ -63,6 +56,7 @@
 @@||converti.se^
 @@||convertkit.com^
 @@||convertkit-mail.com^
+@@||createsend.com^
 @@||createsend1.com^
 @@||dpbolvw.net^
 @@||dt51.net^
@@ -74,9 +68,12 @@
 @@||glnk.io^
 @@||go2jump.org^
 @@||gopjn.com^
+@@||gotrackier.com^
 @@||href.li^
 @@||hubspotemail.net^
+@@||hubspotlinks.com^
 @@||ink1001.com^
+@@||intercom-clicks.com^
 @@||jdoqocy.com^
 @@||judge.me^
 @@||klclick*.com^
@@ -91,6 +88,8 @@
 @@||mktoweb.com^
 @@||mmtro.com^
 @@||mssg.me^
+@@||mtpc.se
+@@||newsletter2go.com^
 @@||nonstoppartner.net^
 @@||ojrq.net^
 @@||onelink.me^
@@ -110,35 +109,40 @@
 @@||qksrv.net^
 @@||rebrandlydomain.com^
 @@||redirect.at^
+@@||rewardtk.com^
 @@||sailthru.com^
 @@||shareasale.com^
 @@||shareasale-analytics.com^
 @@||shop-links.co^
 @@||slickdeals.net^
+@@||spgo.io^
 @@||stvkr.com^
 @@||t.co^
+@@||tapfiliate.com^
 @@||tkqlhce.com^
 @@||trackcmp.net^
 @@||tradedoubler.com^
 @@||webep1.com^
+@@||webpower.eu^
 @@||xg4ken.com^
 @@||redirect.*.aws.a2z.com^
 @@||px.a8.net^
+@@||trk.mg.aadvantageeshopping.com^
 @@||t.adcell.com^
 @@||a1.adform.net^
 @@||track.adform.net^
 @@||email-*.adguard.com^
+@@||app.*.adjust.com^
 @@||app.adjust.cn^
 @@||app.adjust.com^
 @@||app.adjust.io^
-@@||app.adjust.net.in^
 @@||app.adjust.world^
-@@||app.*.adjust.com^
 @@||ulink.adjust.com^
 @@||ad.admitad.com^
 @@||go.admost.com^
 @@||run.admost.com^
 @@||campaign.adobe.com^
+@@||adobetarget.data.adobedc.net^
 @@||tags.adsafety.net^
 @@||online.adservicemedia.dk^
 @@||email-*.adtidy.net^
@@ -163,11 +167,15 @@
 @@||prism.app-us1.com^
 @@||click.appcast.io^
 @@||c.apple.com^
+@@||autolinkmaker.itunes.apple.com^
+@@||geo.itunes.apple.com^
 @@||app.appsflyer.com^
 @@||customlinks.appsflyer.com^
+@@||engagements.appsflyer.com^
 @@||tr.apsis.one^
 @@||uns.apsis.one^
 @@||ad.atdmt.com^
+@@||r.audible.de^
 @@||clicks.aweber.com^
 @@||www.awin1.com^
 @@||api.bam-x.com^
@@ -184,6 +192,9 @@
 @@||tracking.bol.com^
 @@||clk.boulanger.com^
 @@||eulerian.brandalley.fr^
+@@||referrals.brave.com^
+@@||referrals.bravesoftware.com^
+@@||cdn.braze.eu^
 @@||cts.businesswire.com^
 @@||click.myctm.canadiantire.ca^
 @@||engage.canva.com^
@@ -193,7 +204,6 @@
 @@||api.cleverpush.com^
 @@||static.cleverpush.com^
 @@||seu*.cleverreach.com^
-@@||monitor.clickcease.com^
 @@||target.clickfunnels.com^
 @@||readdle.cmail20.com^
 @@||cloudmail*.netcore.co.in^
@@ -206,6 +216,7 @@
 @@||click.cptrack.de^
 @@||click.mc.crimsontrace.com^
 @@||links.email.crunchbase.com^
+@@||m-*.custobar.com^
 @@||track*.customer.io^
 @@||link.dana.id^
 @@||clickserve.dartsearch.net^
@@ -214,6 +225,7 @@
 @@||mydealz.digidip.net^
 @@||online.digital-advisor.com^
 @@||link.digitaladvisor.dk^
+@@||click.discord.com^
 @@||referrer.disqus.com^
 @@||click.dji.com^
 @@||email.docker.com^
@@ -236,11 +248,13 @@
 @@||link.epicgames.com^
 @@||ablink.email.etsy.com^
 @@||pixel*.everesttech.net^
+@@||secure.everyaction.com^
 @@||m.exactag.com^
 @@||tp-emea.exactag.com^
 @@||s*.exacttarget.com^
 @@||cl.exct.net^
 @@||click.*.experian.com^
+@@||cdn.*.exponea.com^
 @@||*cdn.exponea.com^
 @@||l.facebook.com^
 @@||click.fidelityinvestments.com^
@@ -251,13 +265,17 @@
 @@||eultech.fnac.com^
 @@||link.freshmail.mx^
 @@||ea.galerieslafayette.com^
+@@||tracker.gamesdonequick.com^
 @@||target.georiot.com^
+@@||linksmail.geosolinc.com^
 @@||tag.getdrip.com^
 @@||app.getresponse.com^
 @@||track.glovoapp.com^
 @@||adservice.google.*^
 @@||www.googleadservices.com^
 @@||track.grove.co^
+@@||webflow.grsm.io^
+@@||creators.gumroad.com^
 @@||click.holidayinnclubemail.com^
 @@||click.instantink.hpsmart.com^
 @@||sites.hscoscdn*.net^
@@ -273,11 +291,14 @@
 @@||t*.intelliad.de^
 @@||t.ionos.de^
 @@||links.iterable.com^
+@@||go.jc.fm^
 @@||click.email.jcpenney.com^
 @@||goto.jet.com^
 @@||click.justwatch.com^
 @@||www.kdukvh.com^
 @@||*-go.kelkoogroup.net^
+@@||click.klarna.de^
+@@||l.klarna.com^
 @@||admarkt.kleinanzeigen.de^
 @@||click.chp.kohls.com^
 @@||click.s.kohls.com^
@@ -287,8 +308,10 @@
 @@||unsubscribe.*.leanplum.com^
 @@||trk.ecomm.lenovo.com^
 @@||t.lever-analytics.com^
-@@||oa.tr.line.me^
+@@||tr.line.me^
+@@||r.linksprf.com^
 @@||click.linksynergy.com^
+@@||affiliate.logitravel.com^
 @@||click.e.lowes.com^
 @@||t.lt02.net^
 @@||click.mail.macmillan.com^
@@ -301,11 +324,14 @@
 @@||email.microsoft*.com^
 @@||links.mkt*.net^
 @@||click.mlsend.com^
+@@||t.mmtrkr.com^
 @@||promo.mobile.de^
+@@||api-*.moengage.com^
 @@||t.emailing.monoprix.fr^
 @@||af.mopo.jp^
 @@||cj.mplxtms.com^
 @@||c.msn.com^
+@@||trk.musvccustom.net^
 @@||t.myvisualiq.net^
 @@||email.namebase.io^
 @@||api.narrativ.com^
@@ -313,6 +339,7 @@
 @@||cm.naukri.com^
 @@||app.link.nba.com^
 @@||l.neqty.net^
+@@||app.adjust.net.in^
 @@||marketing.tr.netsalesmedia.pl^
 @@||click.email.newegg.com^
 @@||go.nextiva.com^
@@ -324,6 +351,7 @@
 @@||email.office.com^
 @@||clk.omgt3.com^
 @@||mail.onedrive.com^
+@@||sites.paradox.ai^
 @@||link.*.paramountplus.com^
 @@||cdn.pardot.com^
 @@||go.pardot.com^
@@ -332,12 +360,15 @@
 @@||www.partner-ads.com^
 @@||c*.piano.io^
 @@||metric.picodi.com^
+@@||clicks.pipaffiliates.com^
 @@||p.placed.com^
 @@||ndirect.ppro.de^
 @@||geo*.presslabs.net^
 @@||track.productsup.io^
 @@||click.pstmrk.it^
 @@||tracking.publicidees.com^
+@@||api.pushwoosh.com^
+@@||tracker.pusulapartners6.com^
 @@||tr.rdrtr.com^
 @@||alb.reddit.com^
 @@||click.redditmail.com^
@@ -367,6 +398,8 @@
 @@||track.smtp2go.net^
 @@||click.snapshat.com^
 @@||dominos.sng.link^
+@@||rides.sng.link^
+@@||tracking.socketlabs.com^
 @@||click.email.sonos.com^
 @@||trk.specialized.com^
 @@||post.spmailtechno.com^
@@ -377,54 +410,41 @@
 @@||rads.stackoverflow.com^
 @@||partners*.stacksocial.com^
 @@||email.streamhub.tech^
+@@||tr.strumentimusicali.net^
 @@||link.swa.info^
 @@||link.sylikes.com^
 @@||count.shopping.t-online.de^
 @@||redirect*.tagcommander.com^
+@@||click*.taobao.com^
 @@||goto.target.com^
 @@||*tagm.tchibo.de^
 @@||eu*.thunderhead.com^
+@@||click.mailing.ticketmaster.com^
 @@||tracking.tldrnewsletter.com^
 @@||c.trackmytarget.com^
 @@||cdn-magiclinks.trackonomics.net^
 @@||t*.tradetracker.net^
 @@||api.traq.li^
+@@||secure.traqkarr.com^
 @@||tracking.truthfinder.com^
 @@||clicks.trx-hub.com^
 @@||analytics.twitter.com^
 @@||email.uber.com^
 @@||redirect.viglink.com^
 @@||ek*.voyage-prive.com^
+@@||cts.vresp.com^
 @@||cdn.webclicks24.com^
+@@||api.webengage.com^
 @@||c.webengage.com^
 @@||track*.webgains.team^
 @@||solution.weborama.fr^
 @@||engage.windows.com^
 @@||link.wizzair.com^
 @@||engage.xbox.com^
+@@||t.xfin.me^
 @@||sdk.us.xtremepush.com^
 @@||clck.yandex.ru^
 @@||redirect.appmetrica.yandex.*^
-@@||click.zoom.us^
-@@||tr.strumentimusicali.net^
-@@||trk.musvccustom.net^
-@@||newsletter2go.com^
-@@||api-*.moengage.com^
-@@||t.mmtrkr.com^
 @@||t.yesware.com^
-
-! Referral Facebbok-Feed-Ads
-@@||ad1.adfarm1.adition.com^
-@@||ad11.adfarm1.adition.com^
-@@||ad11p.adfarm1.adition.com^
-@@||ad13.adfarm1.adition.com^
-@@||ad2.adfarm1.adition.com^
-! Also used for AdDBlock dection on servustv.com
-@@||ad3.adfarm1.adition.com^
-@@||ad4.adfarm1.adition.com^
-@@||ad7.adfarm1.adition.com^
-@@||ad71.adfarm1.adition.com^
-@@||ad9.adfarm1.adition.com^
-
-! Images/Links in Mails
-@@||cdn.braze.eu^
+@@||tracker.yoncamarket.com^
+@@||click.zoom.us^

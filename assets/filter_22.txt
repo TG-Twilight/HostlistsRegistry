@@ -1,14 +1,11 @@
 !
 ! Title: IDN: ABPindo
 ! Description: Filter complementary to EasyList for blocking ads on Indonesian and Malaysian websites
+! Version: 1.0.14.44
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules
-! Last modified: 2024-03-15T14:05:50.052Z
+! Last modified: 2024-11-27T12:37:45.906Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.23
-!
-!
-! Source name: ABPindo
-! Source: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/aghome.txt
+! Compiled by @adguard/hostlist-compiler v1.0.29
 !
 ||188affiliates.com^
 ||accesstrade.co.id^
@@ -34,7 +31,6 @@
 ||adslop.com^
 ||adstarsmedia.co.id^
 ||adtimeselaras.com^
-||advertica-cdn2.com^
 ||alertpay.com^
 ||ampclicks.com^
 ||anekaiklan.com^
@@ -47,13 +43,11 @@
 ||cfs.uzone.id^
 ||cfs2.uzone.id^
 ||clickmedia.co.id^
-||clicks.pipaffiliates.com^
 ||compulsivehemisphere.com^
 ||csf.uzone.id^
 ||d01.notifa.info^
 ||dewsburg.info^
 ||digiads.co.id^
-||eclkmpsa.com^
 ||ena-native-ads4.com^
 ||etoads.net^
 ||filebanner.com^
@@ -133,6 +127,7 @@
 ||promobagus.com^
 ||promotioncamp.com^
 ||props.id^
+||propsid.b-cdn.net^
 ||publish.web.id^
 ||pusatiklan.com^
 ||s2pops.club^
@@ -165,7 +160,6 @@
 ||webiklan.com^
 ||weblogiklan.com^
 ||yesads.com^
-||yx-ads6.com^
 ||05ee3a24ed11df058c8.com^
 ||1b969cef84d93b43.com^
 ||34667c8ece5.com^
@@ -179,7 +173,6 @@
 ||abrts.pro^
 ||adeumssp.com^
 ||afbcashidr.com^
-||afdashrafi.com^
 ||ahcnxuepput.com^
 ||aj1052.online^
 ||aopxnvrugx.com^
@@ -191,8 +184,10 @@
 ||bubblekraken.com^
 ||cea9d3d4f74fb831.com^
 ||chidsimp.com^
+||chitchooms.net^
 ||chqspuonctkgz.com^
 ||craydark.pw^
+||curoax.com^
 ||d0p21g2fep.com^
 ||d72gb9oukw3j.com^
 ||d824d7f5cbcb0e00.com^
@@ -215,10 +210,8 @@
 ||gbrrrxbodqdlq.com^
 ||ghaahq.com^
 ||hegarberetrof.pro^
-||highwaycpmrevenue.com^
 ||hoegutvie.com^
 ||ihqfiimrbcf.com^
-||isortflorent.com^
 ||iupqelechcmj.com^
 ||iwtserve.com^
 ||jillsclickcorner.com^
@@ -275,6 +268,7 @@
 ||wbaogaqvrukprx.com^
 ||whjibbprhng.com^
 ||wkuave.com^
+||xosbkqblniusql.com^
 ||yllix.com^
 ||ys3e965d.top^
 ||zukxd6fkxqn.com^

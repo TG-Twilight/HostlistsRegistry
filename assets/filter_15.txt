@@ -1,14 +1,11 @@
 !
 ! Title: KOR: YousList
 ! Description: List for blocking ads mainly on Korean websites
+! Version: 1.0.14.48
 ! Homepage: https://github.com/yous/YousList
-! Last modified: 2024-02-17T07:05:24.819Z
+! Last modified: 2024-11-28T07:06:56.420Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.23
-!
-!
-! Source name: YousList
-! Source: https://raw.githubusercontent.com/yous/YousList/master/hosts.txt
+! Compiled by @adguard/hostlist-compiler v1.0.29
 !
 
 0.0.0.0 3407.tm.zedo.com
@@ -47,6 +44,7 @@
 0.0.0.0 ad.adpon.jp
 0.0.0.0 ad.afy11.net
 0.0.0.0 ad.altervista.org
+0.0.0.0 ad.api.adwiser.kr
 0.0.0.0 ad.api.stax.kr
 0.0.0.0 ad.applead.co.kr
 0.0.0.0 ad.bananamall.co.kr
@@ -89,6 +87,7 @@
 0.0.0.0 ad.tjtune.com
 0.0.0.0 ad.touchwise.co.kr
 0.0.0.0 ad.tpmn.co.kr
+0.0.0.0 ad.tpmn.io
 0.0.0.0 ad.turn.com
 0.0.0.0 ad.xc.netinsight.co.kr
 0.0.0.0 ad.xc.nis.nitmus.com
@@ -201,10 +200,14 @@
 0.0.0.0 api.adiostech.com
 0.0.0.0 api.adjoin.co.kr
 0.0.0.0 api.adns.contentlink.co.kr
+0.0.0.0 api.aedi.ai
 0.0.0.0 api.ficm.contentlink.co.kr
 0.0.0.0 api.linkmine.co.kr
+0.0.0.0 api.ootoo.co.kr
 0.0.0.0 api.screensharp.kr
+0.0.0.0 apis.aedi.ai
 0.0.0.0 apis.piclick.me
+0.0.0.0 applog.ssgdfs.com
 0.0.0.0 as.dc.impact-ad.jp
 0.0.0.0 asgclickpop.com
 0.0.0.0 assets.datarize.ai
@@ -248,6 +251,7 @@
 0.0.0.0 cdn.adpushup.com
 0.0.0.0 cdn.adrtx.net
 0.0.0.0 cdn.adsafeprotected.com
+0.0.0.0 cdn.adshub.kr
 0.0.0.0 cdn.adsolutions.nl
 0.0.0.0 cdn.adtive.com
 0.0.0.0 cdn.adtrue.com
@@ -262,6 +266,7 @@
 0.0.0.0 cdn.interworksmedia.co.kr
 0.0.0.0 cdn.itskiddoan.club
 0.0.0.0 cdn.megadata.co.kr
+0.0.0.0 cdn.nhnace.com
 0.0.0.0 cdn.optmd.com
 0.0.0.0 cdn.popmyads.com
 0.0.0.0 cdn.scrollads.co.kr
@@ -314,6 +319,7 @@
 0.0.0.0 dcd.adotsolution.com
 0.0.0.0 delivery.amessagewithabottle.com
 0.0.0.0 delivery.c.switchadhub.com
+0.0.0.0 delivery.pryzmads.com
 0.0.0.0 deliverys.n2s.co.kr
 0.0.0.0 deloton.com
 0.0.0.0 dezf3o8j9jdt6.cloudfront.net
@@ -388,6 +394,7 @@
 0.0.0.0 js.ad-stir.com
 0.0.0.0 js.ad4989.co.kr
 0.0.0.0 js.adagio.upstory.it
+0.0.0.0 js.admaru.com
 0.0.0.0 js.gsspcln.jp
 0.0.0.0 js.gumgum.com
 0.0.0.0 js.himediads.com
@@ -413,6 +420,7 @@
 0.0.0.0 lightasp.dmcmedia.co.kr
 0.0.0.0 ljc.coupang.com
 0.0.0.0 log.pipeline.datarize.io
+0.0.0.0 logc.shilladfs.com
 0.0.0.0 loginside.co.kr
 0.0.0.0 lorybnfh.com
 0.0.0.0 lotteryhibernateauthorized.com
@@ -438,6 +446,7 @@
 0.0.0.0 mtag.mman.kr
 0.0.0.0 mv.ad.naver.com
 0.0.0.0 mxttrf.com
+0.0.0.0 my.newscover.co.kr
 0.0.0.0 mycdn.co
 0.0.0.0 na.mmnneo.com
 0.0.0.0 nefing.com
@@ -529,6 +538,7 @@
 0.0.0.0 server1.affiz.net
 0.0.0.0 services.vlitag.com
 0.0.0.0 serving.adbetclickin.pink
+0.0.0.0 sga.planad.net
 0.0.0.0 sh.adingo.jp
 0.0.0.0 shoppingbox.joinsmsn.com
 0.0.0.0 simg.imadrep.co.kr
@@ -605,6 +615,7 @@
 0.0.0.0 vsc.send.microad.jp
 0.0.0.0 web-sdk.shallweadcorp.com
 0.0.0.0 web.n2s.co.kr
+0.0.0.0 webmetic.net
 0.0.0.0 wec.co.kr
 0.0.0.0 widget.barnebys.com
 0.0.0.0 wlog.ifdo.co.kr

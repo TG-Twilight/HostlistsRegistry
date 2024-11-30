@@ -1,17 +1,12 @@
 !
 ! Title: ISR: EasyList Hebrew
 ! Description: List for blocking ads in Hebrew.
+! Version: 1.0.14.45
 ! Homepage: https://github.com/easylist/EasyListHebrew
-! Last modified: 2024-01-30T13:05:44.059Z
+! Last modified: 2024-11-27T12:37:48.916Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.23
+! Compiled by @adguard/hostlist-compiler v1.0.29
 !
-!
-! Source name: EasyList Hebrew (Hosts)
-! Source: https://raw.githubusercontent.com/easylist/EasyListHebrew/master/hosts.txt
-!
-# This lists only contains domains which are used for ads, tracking or popups. it does not block in-HTML elements.
-# For use, simply copy paste this into your computers' HOSTS file. See https://en.wikipedia.org/wiki/Hosts_(file)#Location_in_the_file_system
 ||07af698ea8a2a5a789b79c2d75ba83d3.com^
 ||102320fef81194c7b0c7c6bbe64d845d.com^
 ||11a5ade414a6a4b9969685db9e96b193.com^
@@ -53,6 +48,7 @@
 ||asface.pw^
 ||ashleymadison.com^
 ||ashleyrnadison.com^
+||atardrushim.com^
 ||avoda-mehabait.co.il^
 ||azadv.co.il^
 ||bagly.co.il^
@@ -188,6 +184,7 @@
 ||ineed2fuck.com^
 ||instahookups5.com^
 ||iphone7pluswin.com^
+||isdarot.com^
 ||israfun.net^
 ||iystorage.com^
 ||jacquarter.com^
@@ -209,6 +206,7 @@
 ||lead.foxweb.co.il^
 ||leshem.info^
 ||like-it.co.il^
+||linicom.co.il^
 ||livenza-il.com^
 ||lools.info^
 ||loopmaze.com^
@@ -283,6 +281,9 @@
 ||rpe.co.il^
 ||s-iwantyou.com^
 ||saphiretelavivisrael.com^
+||sdarot-il.org^
+||sdarot-tv.org^
+||sdarot.cc^
 ||sdarotil.top^
 ||sdc.mako.co.il^
 ||sekindo.com^
@@ -323,6 +324,7 @@
 ||truegifstandmore.com^
 ||trustmedia.co.il^
 ||tukid.info^
+||tvfeel.cc^
 ||twobluedeer.com^
 ||typication.com^
 ||ugbuzz.net^
