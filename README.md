@@ -4,7 +4,9 @@
 
 # 若您需要订阅秋风广告规则，则请前往 我们的[官方仓库](https://github.com/TG-Twilight/AWAvenue-Ads-Rule)
 
-# AdGuard Host Lists Registry
+
+
+## AdGuard Host Lists Registry
 
 - [What Blocklists Can Be Added Here](#what-blocklists)
 - [Where Blocklists Are Published](#published)
