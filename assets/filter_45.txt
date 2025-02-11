@@ -1,11 +1,11 @@
 !
 ! Title: HaGeZi's Allowlist Referral
 ! Description: This list unblocks affiliate & tracking referral links that appear in mails, search results etc.
-! Version: 1.0.14.62
+! Version: 1.0.14.78
 ! Homepage: https://github.com/hagezi/dns-blocklists#referral
-! Last modified: 2024-11-28T17:05:45.830Z
+! Last modified: 2025-01-31T16:06:48.670Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.29
+! Compiled by @adguard/hostlist-compiler v1.0.34
 !
 @@||l.1mp.ru^
 @@||t.1und1.de^
@@ -56,6 +56,9 @@
 @@||converti.se^
 @@||convertkit.com^
 @@||convertkit-mail.com^
+@@||convertkit-mail2.com^
+@@||convertkit-mail3.com^
+@@||convertkit-mail4.com^
 @@||createsend.com^
 @@||createsend1.com^
 @@||dpbolvw.net^
@@ -66,6 +69,7 @@
 @@||fr135.net^
 @@||ggopjn.com^
 @@||glnk.io^
+@@||go.link^
 @@||go2jump.org^
 @@||gopjn.com^
 @@||gotrackier.com^
@@ -83,6 +87,7 @@
 @@||lt45.net^
 @@||mandrillapp.com^
 @@||media01.eu^
+@@||mention-me.com^
 @@||micpn.com^
 @@||mkto-*.com^
 @@||mktoweb.com^
@@ -201,8 +206,8 @@
 @@||track.canva.com^
 @@||tracking.cashkaro.com^
 @@||cse3.chausport.com^
-@@||api.cleverpush.com^
-@@||static.cleverpush.com^
+@@||api*.cleverpush.com^
+@@||static*.cleverpush.com^
 @@||seu*.cleverreach.com^
 @@||target.clickfunnels.com^
 @@||readdle.cmail20.com^
@@ -218,6 +223,7 @@
 @@||links.email.crunchbase.com^
 @@||m-*.custobar.com^
 @@||track*.customer.io^
+@@||e.customeriomail.com^
 @@||link.dana.id^
 @@||clickserve.dartsearch.net^
 @@||ch0p.darty.com^
@@ -364,6 +370,7 @@
 @@||p.placed.com^
 @@||ndirect.ppro.de^
 @@||geo*.presslabs.net^
+@@||track.productsup.com^
 @@||track.productsup.io^
 @@||click.pstmrk.it^
 @@||tracking.publicidees.com^
@@ -426,6 +433,7 @@
 @@||t*.tradetracker.net^
 @@||api.traq.li^
 @@||secure.traqkarr.com^
+@@||track.connect.travelaudience.com^
 @@||tracking.truthfinder.com^
 @@||clicks.trx-hub.com^
 @@||analytics.twitter.com^
@@ -448,3 +456,5 @@
 @@||t.yesware.com^
 @@||tracker.yoncamarket.com^
 @@||click.zoom.us^
+@@||l.lefigaro.fr^
+@@||njih.net^

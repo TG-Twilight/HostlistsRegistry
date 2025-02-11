@@ -1,11 +1,11 @@
 !
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
-! Version: 1.0.14.59
+! Version: 1.0.14.77
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2024-11-27T12:37:35.240Z
+! Last modified: 2025-02-04T18:07:40.004Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.29
+! Compiled by @adguard/hostlist-compiler v1.0.34
 !
 0.0.0.0 goatse.cx       # More information on sites such as 
 0.0.0.0 www.goatse.cx   # these can be found in this article
@@ -1190,6 +1190,7 @@
 0.0.0.0 tracker.remp.impresa.pt
 0.0.0.0 tracker.tradedoubler.com
 0.0.0.0 tracker1.leadiya.com
+0.0.0.0 tracking-lealcobrancaspremium.p-email.net
 0.0.0.0 tracking.10e20.com
 0.0.0.0 tracking.3com.com
 0.0.0.0 tracking.adalyser.com
@@ -1542,6 +1543,7 @@
 0.0.0.0 antispywareexpert.com
 0.0.0.0 antivirus-scanner.com
 0.0.0.0 antoinettepoisson.fr
+0.0.0.0 apconsultantgroup.com
 0.0.0.0 apel3.fr
 0.0.0.0 api.inwemo.com
 0.0.0.0 app2.letslowbefast.life
@@ -1624,6 +1626,7 @@
 0.0.0.0 bergeresdefrance.fr
 0.0.0.0 besacon.fr
 0.0.0.0 bestblackhatforum.fr
+0.0.0.0 bestoftoday.click
 0.0.0.0 bestreview.site
 0.0.0.0 bestwebpillplace.com
 0.0.0.0 bestwesterne.fr
@@ -1712,6 +1715,7 @@
 0.0.0.0 campinglespins.fr
 0.0.0.0 camplace.fr
 0.0.0.0 campus-forprof.fr
+0.0.0.0 canada.postcanadakxcif.top
 0.0.0.0 canadapost-delivery-reshedule.com
 0.0.0.0 canadapost-paymentservice.com
 0.0.0.0 canadapost-postescanada.uwpackege.top
@@ -1816,6 +1820,7 @@
 0.0.0.0 coordino.com
 0.0.0.0 cosmopolian.fr
 0.0.0.0 cosmopolita.fr
+0.0.0.0 costco-rewardsaccount1.com
 0.0.0.0 costorama.fr
 0.0.0.0 countrystore.fr
 0.0.0.0 coupondio.fr
@@ -1848,6 +1853,7 @@
 0.0.0.0 dbios.org
 0.0.0.0 dealerconnection.fr
 0.0.0.0 dealiveroo.fr
+0.0.0.0 declarateenquiebra.cl
 0.0.0.0 decompiler.fr
 0.0.0.0 dejoyaux.fr
 0.0.0.0 delamaisn.fr
@@ -2473,6 +2479,7 @@
 0.0.0.0 mycnal.fr
 0.0.0.0 mydreamday.fr
 0.0.0.0 myedebred.fr
+0.0.0.0 myhst2024.com
 0.0.0.0 mylike.co.uk				# Facebook trojan
 0.0.0.0 myornamenti.com
 0.0.0.0 myprivateemails.com
@@ -2904,6 +2911,7 @@
 0.0.0.0 thainationalparks.fr
 0.0.0.0 thalasur.fr
 0.0.0.0 thebestknifes.fr
+0.0.0.0 thebestone.click
 0.0.0.0 thebestwebpillplace.com
 0.0.0.0 thechive.fr
 0.0.0.0 thedatesafe.com			# Facebook trojan
@@ -2985,6 +2993,7 @@
 0.0.0.0 utenti.lycos.it
 0.0.0.0 utrace.fr
 0.0.0.0 van-city-sign-on.com
+0.0.0.0 vc-login.com
 0.0.0.0 vcarrefour.fr
 0.0.0.0 venturead.com
 0.0.0.0 verify.rambler-profile.site
@@ -3148,7 +3157,6 @@
 0.0.0.0 www.mshelp247.weebly.com
 0.0.0.0 www.mylike.co.uk			# Facebook trojan
 0.0.0.0 www.mylovecards.com
-0.0.0.0 www.mywot.com
 0.0.0.0 www.notepad2.com
 0.0.0.0 www.novemberrainx.com
 0.0.0.0 www.nu26.com
@@ -6295,6 +6303,7 @@
 0.0.0.0 beap.gemini.yahoo.com
 0.0.0.0 bell.adcentriconline.com
 0.0.0.0 benimreklam.com
+0.0.0.0 bespokeshirtsmail.com
 0.0.0.0 best2017games.com
 0.0.0.0 best2019-games-web1.com
 0.0.0.0 best2020-games-web1.com
@@ -7324,6 +7333,7 @@
 0.0.0.0 go.padsdelivery.com
 0.0.0.0 go.padstm.com
 0.0.0.0 go.pl.bbelements.com
+0.0.0.0 go.rightdailyfeed.com
 0.0.0.0 go.spaceshipads.com
 0.0.0.0 go.stirshakead.com
 0.0.0.0 go.verymuchad.com
@@ -7788,6 +7798,7 @@
 0.0.0.0 l.qq.com
 0.0.0.0 l.yieldmanager.net
 0.0.0.0 l2.l.qq.com
+0.0.0.0 labas-hl.de
 0.0.0.0 labashl.de
 0.0.0.0 laborex.hu
 0.0.0.0 ladyclicks.ru
@@ -10412,6 +10423,7 @@
 0.0.0.0 www.rewardsflow.com
 0.0.0.0 www.ringtonepartner.com
 0.0.0.0 www.riskybus.f9.co.uk
+0.0.0.0 www.ritikhush.com
 0.0.0.0 www.robm674.plus.com
 0.0.0.0 www.romepartners.com
 0.0.0.0 www.roulettebotplus.com

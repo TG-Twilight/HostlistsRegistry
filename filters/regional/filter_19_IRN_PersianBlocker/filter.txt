@@ -1,11 +1,11 @@
 !
 ! Title: IRN: PersianBlocker list
 ! Description: Optimal and extensive list for blocking ads and trackers on Persian language sites
-! Version: 1.0.14.51
+! Version: 1.0.14.66
 ! Homepage: https://github.com/MasterKia/PersianBlocker
-! Last modified: 2024-11-27T12:37:44.834Z
+! Last modified: 2025-02-01T18:07:01.983Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.29
+! Compiled by @adguard/hostlist-compiler v1.0.34
 !
 adtodate.ir
 adrooz.com
@@ -16,6 +16,8 @@ scripts-ads.s3.ir-thr-at1.arvanstorage.com
 error-tracking.arvancloud.com
 
 adexo.ir
+adexofiles.ir
+
 adskav.com
 advn.ir
 
@@ -50,6 +52,7 @@ adro.ir
 affstat.digikala.com
 affiliate.digikala.com
 
+bitad.ir
 binoads.ir
 bl9.ir
 backlink.ir
@@ -141,6 +144,8 @@ oscaranimation.in
 on-click.ir
 onclick.ir
 
+perlika.com
+pelikan-network.ir
 pegah.tech
 pushq.ir
 pooye-ads.com
@@ -178,6 +183,8 @@ publica.ir
 
 rankirani.ir
 rssbank.ir
+
+spotyfile.com
 
 spellpop.ir
 
@@ -228,7 +235,10 @@ xjs.lol
 xmlx.lol
 
 yelloadwise.ir
+
 yektanet.com
+sentry.yektanet.tech
+
 yekbux.com
 
 zarad.net
@@ -297,10 +307,14 @@ websocket.ilna.ir
 sentry.alibaba.ir
 tracker.jabama.com
 
+logapi.karbord.io
+
 kar-sentry.karnameh.com
 
 websocket.khanefootball.com
 
+
+sentry.mci.dev
 
 counter.musicsweb.ir
 counter.mahanmusic.net
@@ -317,7 +331,7 @@ websocket.55online.news
 
 analytics.plaza.ir
 
-sentry.quera.org
+sentry.querastaff.ir
 
 a.reymit.ir
 
@@ -459,4 +473,4 @@ falixa.com
 laxsson.com
 
 tradergpt.ai
-meashstis.ir
+mat-pnu.ir

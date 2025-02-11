@@ -1,18 +1,17 @@
 !
 ! Title: HaGeZi's Samsung Tracker Blocklist
 ! Description: Blocks Samsung native broadband trackers that track your activity.
-! Version: 1.0.0.5
+! Version: 1.0.0.15
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2024-11-30T05:06:08.802Z
+! Last modified: 2025-01-13T12:01:10.105Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.29
+! Compiled by @adguard/hostlist-compiler v1.0.34
 !
 ||samsung-com.112.2o7.net^
 ||metric.account-samsung.com^
 ||samsungcard.data.adobedc.net^
 ||samsungads.adsmeasurement.com^
 ||samsung.appnext.com^
-||samsung.attn.tv^
 ||samsungrum.beusable.net^
 ||samsungscript.beusable.net^
 ||samsung.bimtrackapp.co^

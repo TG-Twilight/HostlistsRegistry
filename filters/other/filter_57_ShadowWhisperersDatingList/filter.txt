@@ -1,11 +1,11 @@
 !
 ! Title: ShadowWhisperer's Dating List
 ! Description: Blocks dating websites.
-! Version: 1.0.14.55
+! Version: 1.0.14.65
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2024-11-27T12:37:42.076Z
+! Last modified: 2025-01-16T06:08:10.960Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.29
+! Compiled by @adguard/hostlist-compiler v1.0.34
 !
 
 ||1000-dating-sites.com^
@@ -690,6 +690,7 @@
 ||mixeddating.net^
 ||monamour.ru^
 ||mon-bled.com^
+||monsecretsexy.com^
 ||mtch.com^
 ||muzmatch.com^
 ||mydates.com^
@@ -736,6 +737,7 @@
 ||outpersonals.com^
 ||over50datingnorge.com^
 ||parisvideochat.com^
+||parship.at^
 ||parship.ch^
 ||parship.com^
 ||parship.co.uk^
@@ -966,6 +968,7 @@
 ||speeddatinglondon.co.uk^
 ||speed-dating-lyon.com^
 ||speeddatingmontreal.com^
+||sportdatingplanet.com^
 ||sturb.com^
 ||suchejetzt.com^
 ||sugarbook.com^

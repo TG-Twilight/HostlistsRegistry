@@ -1,19 +1,19 @@
 !
 ! Title: Peter Lowe's Blocklist
 ! Description: Blocklist with hostnames of ad and tracking servers
-! Version: 1.0.14.71
+! Version: 1.0.15.2
 ! Homepage: https://pgl.yoyo.org/adservers/
-! Last modified: 2024-11-29T21:05:38.300Z
+! Last modified: 2025-02-08T04:06:51.772Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.29
+! Compiled by @adguard/hostlist-compiler v1.0.34
 !
 
 
-||1-1ads.com^
 ||101com.com^
 ||180hits.de^
 ||180searchassistant.com^
 ||1rx.io^
+||2020mustang.com^
 ||207.net^
 ||247media.com^
 ||24log.com^
@@ -120,7 +120,6 @@
 ||ad.grafika.cz^
 ||ad.gt^
 ||ad.hbv.de^
-||ad.hodomobile.com^
 ||ad.hyena.cz^
 ||ad.iinfo.cz^
 ||ad.infoseek.com^
@@ -182,7 +181,6 @@
 ||adanging.blog^
 ||adap.tv^
 ||adapt.tv^
-||adaranth.com^
 ||adbilty.me^
 ||adblade.com^
 ||adblade.org^
@@ -340,7 +338,6 @@
 ||adrta.com^
 ||ads-backend.chaincliq.com^
 ||ads-bilek.com^
-||ads-click.com^
 ||ads-dev.pinterest.com^
 ||ads-game-187f4.firebaseapp.com^
 ||ads-kesselhaus.com^
@@ -387,7 +384,6 @@
 ||ads.boerding.com^
 ||ads.boylesports.com^
 ||ads.brabys.com^
-||ads.bumq.com^
 ||ads.canalblog.com^
 ||ads.casinocity.com^
 ||ads.casumoaffiliates.com^
@@ -456,7 +452,6 @@
 ||ads.gld.dk^
 ||ads.gmodules.com^
 ||ads.goyk.com^
-||ads.gplusmedia.com^
 ||ads.gradfinder.com^
 ||ads.grindinggears.com^
 ||ads.gsm-exchange.com^
@@ -499,7 +494,6 @@
 ||ads.lordlucky.com^
 ||ads.ma7.tv^
 ||ads.mail.bg^
-||ads.mariuana.it^
 ||ads.massinfra.nl^
 ||ads.mcafee.com^
 ||ads.mediaodyssey.com^
@@ -668,7 +662,6 @@
 ||adsbydelema.com^
 ||adscale.de^
 ||adscholar.com^
-||adscience.nl^
 ||adsco.re^
 ||adscpm.com^
 ||adsdaq.com^
@@ -871,7 +864,7 @@
 ||affiliatetracking.com^
 ||affiliatetracking.net^
 ||affiliatewindow.com^
-||affiliation-france.com^
+||afflnx.com^
 ||afftracking.justanswer.com^
 ||afraidlanguage.com^
 ||agkn.com^
@@ -1071,7 +1064,6 @@
 ||banners.videosz.com^
 ||banners.virtuagirlhd.com^
 ||bannerserver.com^
-||bannersgomlm.com^
 ||bannershotlink.perfectgonzo.com^
 ||bannersng.yell.com^
 ||bannerspace.com^
@@ -1105,6 +1097,7 @@
 ||benfly.net^
 ||berp.com^
 ||bespoke.iln8.net^
+||best-click.pro^
 ||bestboundary.com^
 ||bestbuy.7tiv.net^
 ||bewilderedblade.com^
@@ -1279,6 +1272,7 @@
 ||click.cision.com^
 ||click.classmates.com^
 ||click.comm.rcibank.co.uk^
+||click.crm.ba.com^
 ||click.digital.metaquestmail.com^
 ||click.discord.com^
 ||click.e.bbcmail.co.uk^
@@ -1306,7 +1300,6 @@
 ||click.nl.npr.org^
 ||click.nvgaming.nvidia.com^
 ||click.redditmail.com^
-||click.twcwigs.com^
 ||click.v.visionlab.es^
 ||click2freemoney.com^
 ||click360v2-ingest.azurewebsites.net^
@@ -1325,7 +1318,7 @@
 ||clickfuse.com^
 ||clickhereforcellphones.com^
 ||clicklink.jp^
-||clickmate.io^
+||clickngo.pro^
 ||clickonometrics.pl^
 ||clicks.deliveroo.co.uk^
 ||clicks.equantum.com^
@@ -1362,6 +1355,7 @@
 ||cnomy.com^
 ||cnt.spbland.ru^
 ||cnt1.pocitadlo.cz^
+||cnvlink.com^
 ||cny.yoyo.org^
 ||codeadnetwork.com^
 ||cognitiv.ai^
@@ -1457,6 +1451,7 @@
 ||cushiondrum.com^
 ||customad.cnn.com^
 ||customads.co^
+||customeriomail.com^
 ||customers.kameleoon.com^
 ||cutechin.com^
 ||cxense.com^
@@ -1476,6 +1471,7 @@
 ||dancemistake.com^
 ||dapper.net^
 ||data.namesakeoscilloscopemarquis.com^
+||datenow.link^
 ||daughterstone.com^
 ||dc-storm.com^
 ||de17a.com^
@@ -1657,7 +1653,6 @@
 ||extractobservation.com^
 ||extreme-dm.com^
 ||extremetracking.com^
-||eyeblaster.com^
 ||eyeota.net^
 ||eyeviewads.com^
 ||eyewonder.com^
@@ -1686,6 +1681,8 @@
 ||findcommerce.com^
 ||findyourcasino.com^
 ||fingahvf.top^
+||fireads.online^
+||fireads.org^
 ||fireworkadservices.com^
 ||fireworkanalytics.com^
 ||fireworks-advertising.com^
@@ -1727,7 +1724,6 @@
 ||frequentflesh.com^
 ||freshrelevance.com^
 ||frightenedpotato.com^
-||frogator.com^
 ||fronttoad.com^
 ||frtyj.com^
 ||frtyk.com^
@@ -1782,11 +1778,13 @@
 ||go-redirect.pl^
 ||go.dhs.gov^
 ||go.eu.sparkpostmail1.com^
+||go.first.org^
 ||go.icann.org^
 ||go.scmagazine.com^
 ||go.usa.gov^
 ||go.xlirdr.com^
 ||go2affise.com^
+||godseedband.com^
 ||goingplatinum.com^
 ||goldstats.com^
 ||gondolagnome.com^
@@ -1803,17 +1801,18 @@
 ||gp.dejanews.com^
 ||graizoah.com^
 ||grandfatherguitar.com^
+||granlite.com^
 ||grapeshot.co.uk^
 ||greyinstrument.com^
 ||greystripe.com^
 ||grouchybrothers.com^
 ||groundtruth.com^
 ||gscontxt.net^
-||gstaticx.com^
 ||guardeddirection.com^
 ||guardedschool.com^
 ||gunggo.com^
 ||h-bid.com^
+||h-trck.com^
 ||h0.t.hubspotemail.net^
 ||h78xb.pw^
 ||habitualhumor.com^
@@ -1830,7 +1829,6 @@
 ||hb.vntsm.com^
 ||hbb.afl.rakuten.co.jp^
 ||hbopenbid.pubmatic.com^
-||hdscout.com^
 ||heap.com^
 ||hearinglizards.com^
 ||heimi-lwx.com^
@@ -1882,7 +1880,6 @@
 ||hsn.uqhv.net^
 ||htlbid.com^
 ||httpool.com^
-||hubadnetwork.com^
 ||hubspotlinks.com^
 ||hueads.com^
 ||hueadsortb.com^
@@ -2036,6 +2033,7 @@
 ||lameletters.com^
 ||larati.net^
 ||largebrass.com^
+||laughcloth.com^
 ||launchbit.com^
 ||layer-ad.de^
 ||layer-ads.de^
@@ -2055,7 +2053,6 @@
 ||lever-analytics.com^
 ||lfeeder.com^
 ||lfstmedia.com^
-||lgad.cjpowercast.com.edgesuite.net^
 ||lgsmartad.com^
 ||li.alibris.com^
 ||li.azstarnet.com^
@@ -2076,7 +2073,6 @@
 ||liftdna.com^
 ||ligatus.com^
 ||ligatus.de^
-||lightcast.leadscoringcenter.com^
 ||lightspeedcash.com^
 ||lightstep.medium.systems^
 ||lijit.com^
@@ -2159,6 +2155,7 @@
 ||maltiverse.lt.acemlnc.com^
 ||manageadv.cblogs.eu^
 ||mantisadnetwork.com^
+||mapcommand.com^
 ||marinsm.com^
 ||markedmeasure.com^
 ||marketing.888.com^
@@ -2315,9 +2312,9 @@
 ||mycounter.ua^
 ||mydas.mobi^
 ||mylead-tracking.tracknow.info^
+||mylead.global^
 ||mylink-today.com^
 ||mypagerank.net^
-||mypagerank.ru^
 ||mypowermall.com^
 ||mystat-in.net^
 ||mystat.pl^
@@ -2360,8 +2357,6 @@
 ||newnudecash.com^
 ||newopenx.detik.com^
 ||newsadsppush.com^
-||newsletter-link.com^
-||newstarads.com^
 ||newt1.adultadworld.com^
 ||newt1.adultworld.com^
 ||nexac.com^
@@ -2454,6 +2449,7 @@
 ||optmstr.com^
 ||optnmstr.com^
 ||optnx.com^
+||orbsrv.com^
 ||orientedargument.com^
 ||orionember.com^
 ||ota.cartrawler.com^
@@ -2477,7 +2473,7 @@
 ||pageranktop.com^
 ||painstakingpickle.com^
 ||paleleaf.com^
-||panickycurtain.com^
+||panatenlink.pl^
 ||panickypancake.com^
 ||panoramicplane.com^
 ||parachutehome.sjv.io^
@@ -2554,6 +2550,7 @@
 ||pointlessprofit.com^
 ||pointroll.com^
 ||pokkt.com^
+||polishedfolly.com^
 ||popads.net^
 ||popcash.net^
 ||popmyads.com^
@@ -2574,6 +2571,7 @@
 ||postrelease.com^
 ||ppc.adhere.marchex.com^
 ||pr-star.de^
+||praddpro.de^
 ||prchecker.info^
 ||prebid.org^
 ||predictad.com^
@@ -2615,6 +2613,7 @@
 ||provenpixel.com^
 ||prpops.com^
 ||prsitecheck.com^
+||prufenzo.xyz^
 ||pstmrk.it^
 ||psychedelicchess.com^
 ||ptoushoa.com^
@@ -2666,6 +2665,7 @@
 ||quisma.com^
 ||quizzicalzephyr.com^
 ||r.logrocket.io^
+||r.marketing.dubaisothebys.com^
 ||r.msn.com^
 ||r.scoota.co^
 ||r.sibmail.havasit.com^
@@ -2682,6 +2682,7 @@
 ||rambunctiousflock.com^
 ||rampidads.com^
 ||randkuj.xyz^
+||randkula.online^
 ||rankchamp.de^
 ||ranking-charts.de^
 ||ranking-hits.de^
@@ -2719,10 +2720,12 @@
 ||reconditerake.com^
 ||record.bonniergaming.com^
 ||record.mrwin.com^
+||redirecting8.eu^
 ||redirectingat.com^
 ||redirectvoluum.com^
 ||redrection.pro^
 ||redshell.io^
+||reduxmedia.com^
 ||referralware.com^
 ||referrer.disqus.com^
 ||regnow.com^
@@ -2752,7 +2755,6 @@
 ||reveal.clearbit.com^
 ||revenuedirect.com^
 ||revenuehits.com^
-||revive.docmatic.org^
 ||revive.dubcnm.com^
 ||revive.haskovo.net^
 ||revive.netriota.hu^
@@ -2948,7 +2950,6 @@
 ||somniture.stuff.co.nz^
 ||somoaudience.com^
 ||sonobi.com^
-||sordidsmile.com^
 ||sortable.com^
 ||sourcepoint.vice.com^
 ||sovrn.com^
@@ -2978,6 +2979,7 @@
 ||spotxchange.com^
 ||springbot.com^
 ||springserve.com^
+||sprysummit.com^
 ||spulse.net^
 ||spylog.com^
 ||spywarelabs.com^
@@ -3188,7 +3190,6 @@
 ||top100.mafia.ru^
 ||top123.ro^
 ||top20free.com^
-||topforall.com^
 ||toplist.cz^
 ||toplist.pornhost.com^
 ||toplista.mw.hu^
@@ -3200,6 +3201,7 @@
 ||totemcash.com^
 ||touchclarity.com^
 ||tour.brazzers.com^
+||track-on.eu^
 ||track-on.pl^
 ||track.anchorfree.com^
 ||track.canva.com^
@@ -3215,6 +3217,7 @@
 ||track.miro.com^
 ||track.nationalgunrights.org^
 ||track.privacyatclearbit.com^
+||track.przejdzdostrony.pl^
 ||track.pubmatic.com^
 ||track.segmetrics.io^
 ||track.software-codes.com^
@@ -3336,6 +3339,7 @@
 ||undertone.com^
 ||unidentifiedanalytics.web.app^
 ||unknowntray.com^
+||unloadyourself.com^
 ||unrulymedia.com^
 ||untd.com^
 ||untidyquestion.com^
@@ -3375,7 +3379,6 @@
 ||verticalmass.com^
 ||vervewireless.com^
 ||vgnp3trk.com^
-||vibrantmedia.com^
 ||vibrantsundown.com^
 ||vid.pubmatic.com^
 ||vidcpm.com^
@@ -3407,7 +3410,6 @@
 ||w55c.net^
 ||wa.and.co.uk^
 ||waardex.com^
-||warlog.ru^
 ||warmafterthought.com^
 ||washbanana.com^
 ||wateryvan.com^
@@ -3434,7 +3436,6 @@
 ||webstat.com^
 ||webstat.net^
 ||webtrackerplus.com^
-||webtracky.com^
 ||webtraffic.se^
 ||webtraxx.de^
 ||webxcdn.com^

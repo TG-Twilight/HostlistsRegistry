@@ -1,14 +1,15 @@
 !
 ! Title: Ukrainian Security Filter
 ! Description: Filters malicious web resources (phishing, online fraud, malware, etc.) targeting Ukrainian citizens
-! Version: 1.0.0.4
+! Version: 1.0.0.15
 ! Homepage: https://github.com/braveinnovators/ukrainian-security-filter
-! Last modified: 2024-11-27T12:37:48.977Z
+! Last modified: 2025-01-13T12:01:18.062Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.29
+! Compiled by @adguard/hostlist-compiler v1.0.34
 !
 ||1webs.top^
 ||1win.pro^
+||1x.games^
 ||1xbet.ci^
 ||1xbet.com^
 ||1xbet.com.mx^
@@ -37,21 +38,15 @@
 ||24helpuapay.com^
 ||24helpukr.com^
 ||25shop.space^
-||51.38.145.47^
-||78.153.139.61^
-||88.151.192.14^
-||94.156.66.107^
 ||97jokerua.top^
 ||100bankiv.com.ua^
-||178.33.57.148^
-||178.33.57.149^
-||178.33.57.159^
-||185.196.11.194^
-||193.203.202.17^
 ||777originals.org^
 ||888starz.bet^
 ||accaunt-ua.fun^
 ||accounts-ukr.com^
+||account-guard.site^
+||account-saver.com^
+||account-viewer.com^
 ||ahome.uno^
 ||aid24-ua.online^
 ||aid24-ua.pw^
@@ -118,6 +113,7 @@
 ||betworld247.com^
 ||bet-boom.com^
 ||bet-match1.io^
+||bet-match1.net^
 ||be-ukr.net^
 ||bg-ukr.net^
 ||bigsales-ua.store^
@@ -138,6 +134,7 @@
 ||buddy1.bet^
 ||buy-ua.com.ua^
 ||b-twinner.com^
+||captcha-challenge.com^
 ||carcover-ua.store^
 ||carcover-ua.uno^
 ||card-ua.cloud^
@@ -176,7 +173,9 @@
 ||datacheckqr.net^
 ||data-mails.com^
 ||data-ukr.com^
+||defender-bot.site^
 ||derjavaukraine.cc^
+||derzhposluhy.com^
 ||device-by-apple-ua.store^
 ||devtome.top^
 ||de-ukr.net^
@@ -351,6 +350,8 @@
 ||epidtrimkaua.info^
 ||epidtrumka.org^
 ||epidtrymka.cloud^
+||es888starz.com^
+||estofounds.christmas^
 ||europeanchallengeukraine.eu^
 ||events-ukr.site^
 ||everest-bet.com^
@@ -407,6 +408,8 @@
 ||gingerbread-ua.store^
 ||girlyanda.store^
 ||gizbocasino.com^
+||god-le.com^
+||god-le.net^
 ||gogleeo.shop^
 ||gohelpukraina24.site^
 ||goldcup24.com^
@@ -435,6 +438,7 @@
 ||groshidopomoga.top^
 ||groshinarahunok.com^
 ||grosovadopomoga.shop^
+||group-invitation.site^
 ||harpoon.dp.ua^
 ||help24ua.com^
 ||help24uapay.com^
@@ -484,6 +488,7 @@
 ||internet-kyivstar.com^
 ||internet-kyivstar.com.ua^
 ||intrestingukrainefun.fun^
+||in-touc.com^
 ||ipay-ua.online^
 ||izzicasino.com^
 ||izzicasino1702.com^
@@ -532,6 +537,7 @@
 ||konkurs-uk.site^
 ||konkurs-ukraine.site^
 ||krakencasino.club^
+||krakencassino.com^
 ||kyivstar.biz^
 ||kyivstar.biz.ua^
 ||kyivstar.com^
@@ -613,6 +619,7 @@
 ||megapari.com^
 ||megashops.online^
 ||megaukrshop.fun^
+||melbet.cd^
 ||melbet.com^
 ||melbetua.com^
 ||melbet-60491.top^
@@ -627,6 +634,7 @@
 ||minmoz.com^
 ||minmoz.org^
 ||mioriginal.fun^
+||mirotrent.com^
 ||mobilluck.com.ua^
 ||mobiplategi.lol^
 ||moda-ua.online^
@@ -684,10 +692,12 @@
 ||nacionalbankukraine.xyz^
 ||nationalbank.shop^
 ||nationalbanking24.shop^
+||natofounds.digital^
 ||netflx-ua.com^
 ||newcourier.darkleads.pro^
 ||newsukr2023.site^
 ||newsukr2023.space^
+||newyorktlimes.life^
 ||next24-auth.online^
 ||next24-auth.site^
 ||next24-auth.space^
@@ -729,6 +739,7 @@
 ||nova-poshta.ws^
 ||nova-poshta-pay.com^
 ||npu-gov-ua.media^
+||odwebp.com^
 ||oficial-viplata.info^
 ||okko-bonus.live^
 ||ok-ua.cloud^
@@ -769,6 +780,7 @@
 ||olx-ukraine.info^
 ||olx-ukrnp.co.uk^
 ||ondorazovaya-viplata24.space^
+||oneaccs.store^
 ||oneclick-ua.shop^
 ||online1shop.store^
 ||onlinediya.com^
@@ -781,6 +793,7 @@
 ||online-prizeme.com^
 ||online-raiffeisen.info^
 ||online-shop.store^
+||onlyfans.gd^
 ||on-ua.cloud^
 ||on-ua.info^
 ||on-ua.pro^
@@ -871,6 +884,8 @@
 ||otto-shop.com.ua^
 ||oukr.net^
 ||outlet-ua.store^
+||outloolc.com^
+||palantir.ink^
 ||panda-sale.com.ua^
 ||parfums.top^
 ||pari.win^
@@ -980,6 +995,7 @@
 ||promo-olx-ukrposhta.com^
 ||promo-pay24.win^
 ||prom-pay-ua.host^
+||protect-password.site^
 ||prvt24-vyplat.online^
 ||prytulafoundation.in^
 ||prytulafoundation.net^
@@ -1054,6 +1070,7 @@
 ||redcrossukraine.co^
 ||redcrossukraine.top^
 ||redcross-34.site^
+||redirecl.com^
 ||redirect-oschad.online^
 ||regsotsvyplat.online^
 ||relffelsen-ua.com^
@@ -1095,6 +1112,7 @@
 ||sendukraine.money^
 ||sendukrainians.money^
 ||set-system.com^
+||share-drive.site^
 ||shop4you.tech^
 ||shop23top.store^
 ||shopingukraine.store^
@@ -1114,6 +1132,7 @@
 ||shop-top-ua.store^
 ||shop-ua.space^
 ||shop-ua.top^
+||sign-cert.com^
 ||simpacasino.com^
 ||simpacasino1.com^
 ||simpacasino2.com^
@@ -1179,6 +1198,7 @@
 ||toidopomoga.co^
 ||toidopomoga.org^
 ||toidopomoga.pro^
+||token-defender.cloud^
 ||topmarketukr.online^
 ||topmatch.win^
 ||topmatch2.win^
@@ -1691,10 +1711,12 @@
 ||vyplata-otrymat.online^
 ||watch-ua.space^
 ||wazbee.casino^
+||webappapiservice.life^
 ||winukr-pay.charity^
 ||winwin.bet^
 ||wowukr.store^
 ||wulkan-777.com^
+||wvtmsouaa2gt6jmcuxj5hkfrqdss5lhecoqijt5dl7gfruueu3i5mkad.onion^
 ||wwwolx.site^
 ||www-ua.cloud^
 ||www-ua.info^

@@ -1,11 +1,11 @@
 !
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: List for blocking ads, tracking, scams & malware mainly on Swedish websites
-! Version: 1.0.14.63
+! Version: 1.0.14.82
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2024-11-30T05:06:11.505Z
+! Last modified: 2025-02-01T05:06:04.223Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.29
+! Compiled by @adguard/hostlist-compiler v1.0.34
 !
 127.0.0.1 1terms.com
 127.0.0.1 5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
@@ -15,12 +15,12 @@
 127.0.0.1 6321239.fls.doubleclick.net
 127.0.0.1 197654070b0e4b05add9b2994aea3887.js.ubembed.com
 127.0.0.1 a.adroll.com
-127.0.0.1 a.adtech.de
 127.0.0.1 a.omappapi.com
 127.0.0.1 a.opmnstr.com
 127.0.0.1 a.optmnstr.com
 127.0.0.1 a.teads.tv
 127.0.0.1 a.thelocal.com
+127.0.0.1 a.vdo.ai
 127.0.0.1 a.zxcvads.com
 127.0.0.1 ab.fastighetsvarlden.se
 127.0.0.1 acceptable.a-ads.com
@@ -56,6 +56,7 @@
 127.0.0.1 ads.exakt24.se
 127.0.0.1 ads.expekt.se
 127.0.0.1 ads.fotosidan.se
+127.0.0.1 ads.frihetsnytt.se
 127.0.0.1 ads.holid.io
 127.0.0.1 ads.kelkoo.com
 127.0.0.1 ads.leovegas.com
@@ -105,6 +106,7 @@
 127.0.0.1 amd.sellingsimplified.net
 127.0.0.1 ana.headerlift.com
 127.0.0.1 analys.landskrona.se
+127.0.0.1 analytics.ahrefs.com
 127.0.0.1 analytics.allas.se
 127.0.0.1 analytics.apotekhjartat.se
 127.0.0.1 analytics.arvika.se
@@ -126,6 +128,7 @@
 127.0.0.1 analytics.mailmunch.co
 127.0.0.1 analytics.motherhood.se
 127.0.0.1 analytics.nikkasystems.com
+127.0.0.1 analytics.recept.se
 127.0.0.1 analytics.residencemagazine.se
 127.0.0.1 analytics.sitewit.com
 127.0.0.1 analytics.sjf.se
@@ -183,6 +186,7 @@
 127.0.0.1 back.revrelations.com
 127.0.0.1 backend.qimtek.se
 127.0.0.1 bam.bonad.io
+127.0.0.1 banner.bet365partners.com
 127.0.0.1 banners.instaforex.com
 127.0.0.1 banners.wsnonline.dk
 127.0.0.1 bannersnack.com
@@ -240,6 +244,7 @@
 127.0.0.1 cdn.adt523.net
 127.0.0.1 cdn.adt532.com
 127.0.0.1 cdn.adt545.net
+127.0.0.1 cdn.adt567.net
 127.0.0.1 cdn.adt598.com
 127.0.0.1 cdn.adtrue.com
 127.0.0.1 cdn.advisible.com
@@ -291,6 +296,7 @@
 127.0.0.1 cdn1.profitmetrics.io
 127.0.0.1 cdn-0.d41.co
 127.0.0.1 cdn-3.convertexperiments.com
+127.0.0.1 cdn-4.convertexperiments.com
 127.0.0.1 cdn-a.yieldlove.com
 127.0.0.1 cdn-eu.clickdimensions.com
 127.0.0.1 cdn-gl.imrworldwide.com
@@ -298,6 +304,7 @@
 127.0.0.1 cdn-magiclinks.trackonomics.net
 127.0.0.1 cdn-scripts.signifyd.com
 127.0.0.1 cdn.dep-x.com
+127.0.0.1 cdn.id5-sync.com
 127.0.0.1 cdn.pushmaster-cdn.xyz
 127.0.0.1 cdn.relevant-digital.com
 127.0.0.1 cdn.stat-track.com
@@ -415,7 +422,6 @@
 127.0.0.1 eum.instana.io
 127.0.0.1 europe-west1-bonnier-big-data.cloudfunctions.net
 127.0.0.1 eus.rubiconproject.com
-127.0.0.1 eu.npario-inc.net
 127.0.0.1 events-collector.spot.im
 127.0.0.1 exitintel.com
 127.0.0.1 expo.ads.ramsalt.com
@@ -440,7 +446,6 @@
 127.0.0.1 freegeoip.app
 127.0.0.1 freespee.com
 127.0.0.1 freewheel-mtgx-tv.akamaized.net
-127.0.0.1 frugalrushcap.com
 127.0.0.1 functions.adnami.io
 127.0.0.1 funnelytics.io
 127.0.0.1 funtomic-d.openx.net
@@ -455,7 +460,6 @@
 127.0.0.1 gcdn.2mdn.net
 127.0.0.1 get.optad360.io
 127.0.0.1 get.s-onetag.com
-127.0.0.1 girohjalm.com.se
 127.0.0.1 glitnoraffiliates.elb.myaffiliates.com
 127.0.0.1 go.ezodn.com
 127.0.0.1 go.ezoic.net
@@ -499,6 +503,7 @@
 127.0.0.1 impse.tradedoubler.com
 127.0.0.1 imstore.bet365affiliates.com
 127.0.0.1 infotorg.d2.sc.omtrdc.net
+127.0.0.1 ingest.analytics.nation.dev
 127.0.0.1 insight.adsrvr.org
 127.0.0.1 insight.nikkasystems.com
 127.0.0.1 insights.algolia.io
@@ -575,8 +580,10 @@
 127.0.0.1 mcgtrack.herokuapp.com
 127.0.0.1 media.aso1.net
 127.0.0.1 media.casumoaffiliates.com
+127.0.0.1 media.comeon.com
 127.0.0.1 media.go2speed.org
 127.0.0.1 media.hajper.com
+127.0.0.1 media.snabbare.com
 127.0.0.1 mediaglacier.com
 127.0.0.1 mediakraft.se
 127.0.0.1 mediaserver.entainpartners.com
@@ -610,7 +617,6 @@
 127.0.0.1 npario-inc.net
 127.0.0.1 ntrfr.expekt.se
 127.0.0.1 ntrfr.leovegas.com
-127.0.0.1 ntrfr.pixel.bet
 127.0.0.1 nucleusanalytics.io
 127.0.0.1 nvpx.adhost.se
 127.0.0.1 offer-go.com
@@ -666,7 +672,6 @@
 127.0.0.1 pxl.host
 127.0.0.1 r.existenz.se
 127.0.0.1 rabble-res.cloudinary.com
-127.0.0.1 reauthenticator.com
 127.0.0.1 recirculation.spot.im
 127.0.0.1 redistats.com
 127.0.0.1 region1.google-analytics.com
@@ -779,10 +784,12 @@
 127.0.0.1 stat.brollopstorget.se
 127.0.0.1 stat.devote.se
 127.0.0.1 stat.familjeliv.se
+127.0.0.1 stat.loppi.se
 127.0.0.1 stat.modette.se
 127.0.0.1 stat.nyheter24.se
 127.0.0.1 stat.rodeo.net
 127.0.0.1 stat.torgen.se
+127.0.0.1 stat.vimedbarn.se
 127.0.0.1 stat03.stat.cliche.se
 127.0.0.1 statcounter.va-endpoint.com
 127.0.0.1 static.addtoany.com
@@ -798,9 +805,9 @@
 127.0.0.1 static.ads-twitter.com
 127.0.0.1 statistics.heltenkelt.se
 127.0.0.1 statistik.blogg1.se
-127.0.0.1 statistik.mxo.se
 127.0.0.1 statistik.svenskaakademien.se
 127.0.0.1 stats.agrar.nu
+127.0.0.1 stats.allabolag.se
 127.0.0.1 stats.blogg.se
 127.0.0.1 stats.bluebillywig.com
 127.0.0.1 stats.datawrapper.de
@@ -813,7 +820,6 @@
 127.0.0.1 stats.med.lu.se
 127.0.0.1 stats.playoncenter.com
 127.0.0.1 stats.poddtoppen.se
-127.0.0.1 stats.proff.se
 127.0.0.1 stats.tipser.com
 127.0.0.1 stats.userneeds.com
 127.0.0.1 stats.wpmucdn.com
@@ -855,7 +861,6 @@
 127.0.0.1 tagging-service.tv4play.se
 127.0.0.1 tagging-service.tv4.se
 127.0.0.1 tags.adnuntius.com
-127.0.0.1 tags.bkrtx.com
 127.0.0.1 tags.crwdcntrl.net
 127.0.0.1 tags.expo9.exponential.com
 127.0.0.1 tags.refinery89.com
@@ -1014,7 +1019,6 @@
 127.0.0.1 tracking.visitorsvoice.com
 127.0.0.1 tracking.vlt.se
 127.0.0.1 tracking.vn.se
-127.0.0.1 tracking.vxonews.se
 127.0.0.1 tracking.ystadsallehanda.se
 127.0.0.1 tracking.etidning.fagersta-posten.se
 127.0.0.1 tracking.fagersta-posten.se
@@ -1083,7 +1087,7 @@
 127.0.0.1 www.dwin2.com
 127.0.0.1 www.effectivecreativeformat.com
 127.0.0.1 www.fakturino.se
-127.0.0.1 www.filasverigese.com
+127.0.0.1 www.flashb.id
 127.0.0.1 www.guesssverige.com.se
 127.0.0.1 www.kundvisaren.se
 127.0.0.1 www.lduhtrp.net
@@ -1103,6 +1107,5 @@
 127.0.0.1 www.gymshark-sweden.com.se
 127.0.0.1 x.bidswitch.net
 127.0.0.1 yieldbird.com
-127.0.0.1 z.moatads.com
 127.0.0.1 zn6lkvme45abyczq5-tuigroup.siteintercept.qualtrics.com
 127.0.0.1 znbkpczkrl5wwqzj3-tripadvisor.siteintercept.qualtrics.com

@@ -1,11 +1,11 @@
 !
 ! Title: HaGeZi's Xiaomi Tracker Blocklist
 ! Description: Blocks Xiaomi native broadband tracker that track your activity.
-! Version: 1.0.14.55
+! Version: 1.0.14.68
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2024-11-27T12:37:42.154Z
+! Last modified: 2025-01-24T21:05:39.558Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.29
+! Compiled by @adguard/hostlist-compiler v1.0.34
 !
 ||traffic-media.co.uk^
 ||ad.intl.xiaomi.com.edgesuite.net^
@@ -51,7 +51,6 @@
 ||resolver.gslb.mi-idc.com^
 ||miui.net^
 ||app.miui.com^
-||assistant.miui.com^
 ||api.bbs.miui.com^
 ||browser.miui.com^
 ||api.comm.miui.com^
@@ -126,7 +125,6 @@
 ||gamebox.sec.miui.com^
 ||srv.greenguard.sec.miui.com^
 ||app.greengurad.sec.miui.com^
-||info.sec.miui.com^
 ||info.analysis.kp.sec.miui.com^
 ||mazu.sec.miui.com^
 ||nav.sec.miui.com^
@@ -153,7 +151,6 @@
 ||tracking.miui.com^
 ||api.vip.miui.com^
 ||intl.up.w.xk.miui.com^
-||rus-mi.com^
 ||traffic-media.co^
 ||ad.xiaomi.com^
 ||api.ads.xiaomi.com^
@@ -218,7 +215,6 @@
 ||vip-api.xmpush.global.xiaomi.com^
 ||hd.xiaomi.com^
 ||heyue.xiaomi.com^
-||huodong.xiaomi.com^
 ||huosai.xiaomi.com^
 ||activity.hybrid.xiaomi.com^
 ||api.hybrid.xiaomi.com^
@@ -266,9 +262,7 @@
 ||invoice.netroam.mihome.xiaomi.net^
 ||abtest.mistat.xiaomi.com^
 ||data.mistat.xiaomi.com^
-||ident.mistat.xiaomi.com^
 ||storeconfig.mistat.xiaomi.com^
-||music.xiaomi.com^
 ||file.cdn.mvideo.xiaomi.com^
 ||image.cdn.mvideo.xiaomi.com^
 ||staging.appapi.n.xiaomi.com^
@@ -282,9 +276,7 @@
 ||11-c3.bigdata.ctc.neo.xiaomi.com^
 ||5-c3.bigdata.ctc.neo.xiaomi.com^
 ||tj1.staging.nfcpay.xiaomi.com^
-||3rdupgrade.pandora.xiaomi.com^
 ||appstore.pandora.xiaomi.com^
-||assistant.pandora.xiaomi.com^
 ||bossadmin.pandora.xiaomi.com^
 ||box.pandora.xiaomi.com^
 ||bss.pandora.xiaomi.com^
@@ -326,7 +318,6 @@
 ||mob.tv.pandora.xiaomi.com^
 ||tvboss.pandora.xiaomi.com^
 ||tvepg.pandora.xiaomi.com^
-||tvstat.pandora.xiaomi.com^
 ||upgrade.pandora.xiaomi.com^
 ||user.pandora.xiaomi.com^
 ||w.pandora.xiaomi.com^
@@ -370,12 +361,8 @@
 ||mob.api.xmpush.xiaomi.com^
 ||vip.api.xmpush.xiaomi.com^
 ||callback.xmpush.xiaomi.com^
-||cn-register.xmpush.xiaomi.com^
 ||emq.xmpush.xiaomi.com^
 ||mina.xmpush.xiaomi.com^
-||cn.register.xmpush.xiaomi.com^
 ||sandbox.xmpush.xiaomi.com^
 ||test-api.xmpush.xiaomi.com^
 ||vip-api.xmpush.xiaomi.com^
-||api.zhuti.xiaomi.com^
-||m.zhuti.xiaomi.com^

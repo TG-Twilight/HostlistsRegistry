@@ -1,18 +1,17 @@
 !
 ! Title: IDN: ABPindo
 ! Description: Filter complementary to EasyList for blocking ads on Indonesian and Malaysian websites
-! Version: 1.0.14.44
+! Version: 1.0.14.54
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules
-! Last modified: 2024-11-27T12:37:45.906Z
+! Last modified: 2025-01-13T12:01:13.847Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.29
+! Compiled by @adguard/hostlist-compiler v1.0.34
 !
 ||188affiliates.com^
 ||accesstrade.co.id^
 ||ad-loupe.com^
 ||adbsys.icu^
 ||addesigner.com^
-||adflazz.com^
 ||admarketplace.net^
 ||adnety.com^
 ||adplus.co.id^
@@ -21,6 +20,7 @@
 ||adreach.co^
 ||adreviewcamp.com^
 ||ads-link.net^
+||ads.d21.media^
 ||ads.indosatooredoo.com^
 ||ads.telkomsel.com^
 ||adsbingo.com^
@@ -99,7 +99,6 @@
 ||masteriklan.net^
 ||mediab.uy^
 ||mesiniklan.andipublisher.com^
-||mybannermaker.com^
 ||newsupdatewe.info^
 ||offdeck.telkomsel.com^
 ||offer.popsads.link^
@@ -146,8 +145,8 @@
 ||spanuletubings.com^
 ||sumberiklan.com^
 ||suryaiklan.com^
-||syndopop.com^
 ||teliad.com^
+||thapi.aedi.ai^
 ||theclickers.net^
 ||tinggalklik.com^
 ||topklik.com^
@@ -184,7 +183,6 @@
 ||bubblekraken.com^
 ||cea9d3d4f74fb831.com^
 ||chidsimp.com^
-||chitchooms.net^
 ||chqspuonctkgz.com^
 ||craydark.pw^
 ||curoax.com^
@@ -221,7 +219,6 @@
 ||kdbumyha.com^
 ||kozoysnsx.com^
 ||l9tdhe6.com^
-||laluvygy.com^
 ||ld82ydd.com^
 ||leoceran.pw^
 ||lpaizureik.com^
@@ -235,7 +232,6 @@
 ||nvqonvfylkxdjc.com^
 ||oardjnay.com^
 ||octafx.com^
-||olenation.org^
 ||olkrzytv.com^
 ||olmsoneenh.info^
 ||ourtherss.top^
@@ -256,7 +252,6 @@
 ||torflegorb.com^
 ||trendlope.com^
 ||trvwjyjgkgeagd.com^
-||tsyndolls.com^
 ||tummiarunzpf.com^
 ||uamrnaakv.com^
 ||ueuodgnrhb.com^
@@ -268,7 +263,6 @@
 ||wbaogaqvrukprx.com^
 ||whjibbprhng.com^
 ||wkuave.com^
-||xosbkqblniusql.com^
 ||yllix.com^
 ||ys3e965d.top^
 ||zukxd6fkxqn.com^

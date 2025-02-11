@@ -1,11 +1,11 @@
 !
 ! Title: Dandelion Sprout's Anti Push Notifications
 ! Description: Aims to remove push notifications on sites. Combines eligible rules from AdGuard Popups Filter's anti-push sections and Fanboy's Notifications Blocking List.
-! Version: 1.0.14.47
+! Version: 1.0.14.55
 ! Homepage: https://github.com/DandelionSprout/adfilt
-! Last modified: 2024-11-27T12:37:38.256Z
+! Last modified: 2025-01-13T12:01:05.255Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.29
+! Compiled by @adguard/hostlist-compiler v1.0.34
 !
 |push.delivery.
 |push-notifications.
@@ -57,6 +57,7 @@
 |webpushiframe.
 |webpushnotifications.
 |wonderpush.
+|api.growthrx.in^
 |amp-user-notification-
 |push-worker-
 ||api-push.com^
@@ -76,6 +77,7 @@
 ||getnotification.me^
 ||irpush.com^
 ||krakenoptimize.com^
+||linker.hr^
 ||luravius.com^
 ||neopush.io^
 ||news2day.me^
@@ -305,7 +307,6 @@
 ||check-now.online^
 ||checkpost.club^
 ||chensenconter.com^
-||clairpixum.com^
 ||clicktimes.bid^
 ||cloud.roistat.com^
 ||colamirus.com^

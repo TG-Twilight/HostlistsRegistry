@@ -1,11 +1,11 @@
 !
 ! Title: HUN: Hufilter
 ! Description: The Hungarian Adblock List.
-! Version: 1.0.14.59
+! Version: 1.0.14.80
 ! Homepage: https://github.com/hufilter/hufilter
-! Last modified: 2024-11-27T12:37:46.991Z
+! Last modified: 2025-01-13T12:01:15.335Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.29
+! Compiled by @adguard/hostlist-compiler v1.0.34
 !
 ||widget.block4d.com^
 ||a.adnium.com^
@@ -42,7 +42,6 @@
 ||media.netpositive.hu^
 ||netadclick.com^
 ||netexs.com^
-||new-bigpenn.com^
 ||pixel.blog.hu^
 ||pixel.sojern.com^
 ||rc.rc.hu^
@@ -64,7 +63,6 @@
 ||beam.telex.hu^
 ||counter.megagroup.ru^
 ||doubleclick.net^
-||freestat.hu^
 ||gemius.hu^
 ||gemius.pl^
 ||px.blog.hu^

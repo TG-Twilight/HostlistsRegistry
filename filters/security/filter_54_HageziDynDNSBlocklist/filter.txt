@@ -1,11 +1,11 @@
 !
 ! Title: HaGeZi's DynDNS Blocklist
 ! Description: Blocks dynamic DNS services to protect against malicious use in phishing campaigns and others.
-! Version: 1.0.14.66
+! Version: 1.0.15.10
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2024-11-29T05:07:08.094Z
+! Last modified: 2025-02-10T16:07:25.639Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.29
+! Compiled by @adguard/hostlist-compiler v1.0.34
 !
 ||0000000000000000000000.com^
 ||0rg.us^
@@ -60,13 +60,12 @@
 ||99tac.com^
 ||abatek.com^
 ||abmetalmecanica.com^
-||abuser.eu^
 ||access.ly^
 ||accesscam.org^
 ||acmetoy.com^
 ||adagio.tw^
+||dyn.addr.tools^
 ||afraid.org^
-||ahoeab.org^
 ||aintno.info^
 ||airlinemeals.net^
 ||albertn.ru^
@@ -104,6 +103,7 @@
 ||authorizeddns.us^
 ||autoipset.com^
 ||avandns.com^
+||awiki.org^
 ||ax.lt^
 ||b0ne.com^
 ||b0tnet.com^
@@ -137,7 +137,6 @@
 ||blogdns.net^
 ||blogdns.org^
 ||blogsite.org^
-||blogsite.xyz^
 ||blogsyte.com^
 ||bloodforthebloodgod.com^
 ||bloom.us^
@@ -176,7 +175,6 @@
 ||changeip.biz^
 ||changeip.co^
 ||changeip.com^
-||changeip.me^
 ||changeip.name^
 ||changeip.net^
 ||changeip.org^
@@ -252,7 +250,6 @@
 ||darksair.org^
 ||darktech.org^
 ||davidsagar.com^
-||dd-dns.de^
 ||ddns.cam^
 ||ddns.info^
 ||ddns.me^
@@ -301,6 +298,7 @@
 ||dns-auth.net^
 ||dns-cloud.net^
 ||dns-dns.com^
+||dns-dynamic.net^
 ||dns-report.com^
 ||dns-stuff.com^
 ||dns04.com^
@@ -350,7 +348,6 @@
 ||doyleandprendergast.com^
 ||dp76.com^
 ||dpcube.com^
-||dray-dns.de^
 ||drayddns.com^
 ||draydns.de^
 ||dropfiles.net^
@@ -482,7 +479,6 @@
 ||eptechguys.com^
 ||esmtp.biz^
 ||essentialventure.com^
-||essexregional.org^
 ||est-a-la-maison.com^
 ||est-a-la-masion.com^
 ||est-le-patron.com^
@@ -599,7 +595,6 @@
 ||game-host.org^
 ||game-server.cc^
 ||garmanage.com^
-||garypatel.com^
 ||gastright.com^
 ||geekgalaxy.com^
 ||geobattery.com^
@@ -630,7 +625,6 @@
 ||green-heroes.com^
 ||groks-the.info^
 ||groks-this.info^
-||groundwerk.info^
 ||grupoimpulsora.com^
 ||grupompr.com^
 ||gslb.me^
@@ -888,6 +882,7 @@
 ||lflinkup.org^
 ||likes-pie.com^
 ||likescandy.com^
+||linkin.tw^
 ||linkpc.net^
 ||linux-site.net^
 ||linux70.ru^
@@ -965,10 +960,11 @@
 ||musterihizmetleri.com^
 ||mwop.net^
 ||my.to^
-||my-vigor.de^
-||my-wan.de^
 ||my03.com^
 ||myactivedirectory.com^
+||myaddr.dev^
+||myaddr.io^
+||myaddr.tools^
 ||mydad.info^
 ||myddns.biz^
 ||myddns.com^
@@ -1032,6 +1028,7 @@
 ||net-freaks.com^
 ||netcabo.pt^
 ||netdorm.com^
+||netlord.de^
 ||netmask.ca^
 ||networkguru.com^
 ||networkoutpost.com^
@@ -1137,7 +1134,6 @@
 ||portalindustries.org^
 ||portfwd.com^
 ||portmap.host^
-||portrelay.com^
 ||possessed.us^
 ||pp.ua^
 ||prettyweak.com^
@@ -1156,7 +1152,6 @@
 ||ptchat.net^
 ||publicvm.com^
 ||pudim.info^
-||punked.us^
 ||qc.to^
 ||qhigh.com^
 ||qlbv.vn^
@@ -1196,7 +1191,6 @@
 ||russkoeumea.com^
 ||rwbcode.com^
 ||ryointernational.com^
-||sadayuki.jp^
 ||sandmeiers.ch^
 ||sannon-stamm.com^
 ||saves-the-whales.com^
@@ -1327,13 +1321,10 @@
 ||surfnet.ca^
 ||suroot.com^
 ||swtest.ru^
-||syno-ds.de^
-||synology-diskstation.de^
 ||synology-ds.de^
 ||synoserver.com^
 ||syntereo.com^
 ||sysadminetworks.com^
-||system-ns.com^
 ||systes.net^
 ||sytes.net^
 ||t-online.hu^
@@ -1401,6 +1392,7 @@
 ||usa.cc^
 ||uzhi.ru^
 ||v13clan.com^
+||v6.army^
 ||v6.navy^
 ||v6.rocks^
 ||vankin.de^
@@ -1422,6 +1414,7 @@
 ||vpntraki.com^
 ||vpnx.nl^
 ||vr.lt^
+||vxe6.net^
 ||wakingmoon.com^
 ||wan64.de^
 ||wanip.ch^
@@ -1445,6 +1438,7 @@
 ||windmillstravel.com^
 ||winnity.ro^
 ||wmhelp.com^
+||wolmerica.com^
 ||womenclothingtoday.com^
 ||workisboring.com^
 ||worse-than.tv^
@@ -1475,7 +1469,6 @@
 ||zaibar.ro^
 ||zanity.net^
 ||zapto.org^
-||zapto.xyz^
 ||ze.am^
 ||zelslonik.info^
 ||zneth.com^
