@@ -1,12 +1,15 @@
 !
 ! Title: KOR: List-KR DNS
 ! Description: A DNS version of List-KR, a filter for websites in the Korean language
-! Version: 1.0.14.77
+! Version: 1.0.14.86
 ! Homepage: https://github.com/List-KR/List-KR
-! Last modified: 2025-01-14T23:05:57.260Z
+! Last modified: 2025-03-11T01:34:21.576Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.34
+! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||adgirl.yes24.com^
+||ad.api.adwiser.kr^
+||recoshopping.naver.com^
 ||ad-creative.pstatic.net^
 ||centaurs-rest.coupang.com^
 ||ad.cashdoc.io^
@@ -45,7 +48,6 @@
 ||iadsdk.apple.com^
 ||skt-asum.com^
 ||iad-*.braze.com^
-||external-ad.bunjang.co.kr^
 ||epnt.ebay.com^
 ||img.side.mythiell.com^
 ||static.tpmn.co.kr^
@@ -100,7 +102,6 @@
 ||cyad.nate.com^
 ||ads.gamemeca.com^
 ||adcdn.gamemeca.com^
-||trendpick.shopping.naver.com^
 ||powerclick.about.co.kr^
 ||ads.tapzin.com^
 ||advod.sbs.co.kr^

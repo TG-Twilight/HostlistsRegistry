@@ -1,11 +1,11 @@
 !
 ! Title: IRN: PersianBlocker list
 ! Description: Optimal and extensive list for blocking ads and trackers on Persian language sites
-! Version: 1.0.14.66
+! Version: 1.0.14.71
 ! Homepage: https://github.com/MasterKia/PersianBlocker
-! Last modified: 2025-02-01T18:07:01.983Z
+! Last modified: 2025-03-17T03:17:33.045Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.34
+! Compiled by @adguard/hostlist-compiler v1.0.35
 !
 adtodate.ir
 adrooz.com
@@ -100,6 +100,7 @@ ads.farakav.com
 
 
 sentry.hamravesh.com
+notifhub.com
 
 hantana.org
 
@@ -314,6 +315,8 @@ kar-sentry.karnameh.com
 websocket.khanefootball.com
 
 
+mediawach.com
+
 sentry.mci.dev
 
 counter.musicsweb.ir
@@ -474,3 +477,8 @@ laxsson.com
 
 tradergpt.ai
 mat-pnu.ir
+
+androidupdate.download
+
+159.100.22.89
+ewpb.site

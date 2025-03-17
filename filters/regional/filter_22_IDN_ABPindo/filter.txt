@@ -1,11 +1,11 @@
 !
 ! Title: IDN: ABPindo
 ! Description: Filter complementary to EasyList for blocking ads on Indonesian and Malaysian websites
-! Version: 1.0.14.54
+! Version: 1.0.14.58
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules
-! Last modified: 2025-01-13T12:01:13.847Z
+! Last modified: 2025-03-16T15:05:41.977Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.34
+! Compiled by @adguard/hostlist-compiler v1.0.35
 !
 ||188affiliates.com^
 ||accesstrade.co.id^
@@ -79,7 +79,6 @@
 ||indoadsnet.com^
 ||indobanner.com^
 ||indofreeads.com^
-||indoleads.com^
 ||istana-impian.com^
 ||istana-impian2.com^
 ||istanaiklan.com^
@@ -263,6 +262,8 @@
 ||wbaogaqvrukprx.com^
 ||whjibbprhng.com^
 ||wkuave.com^
+||wpiohdquqo.com^
+||xihubo.click^
 ||yllix.com^
 ||ys3e965d.top^
 ||zukxd6fkxqn.com^

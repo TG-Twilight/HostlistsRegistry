@@ -1,11 +1,11 @@
 !
 ! Title: ShadowWhisperer's Dating List
 ! Description: Blocks dating websites.
-! Version: 1.0.14.65
+! Version: 1.0.14.69
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2025-01-16T06:08:10.960Z
+! Last modified: 2025-03-13T04:07:40.585Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.34
+! Compiled by @adguard/hostlist-compiler v1.0.35
 !
 
 ||1000-dating-sites.com^
@@ -203,6 +203,7 @@
 ||coolsitesforsingles.com^
 ||coupleminutes.com^
 ||crushonfeature.com^
+||csajokespasik.hu^
 ||cupidbay.com^
 ||cupid.com^
 ||cupid-match.com^
@@ -250,6 +251,7 @@
 ||datingforseniors.com^
 ||datingfriendships.com^
 ||datinggold.com^
+||datingguide.com.au^
 ||dating-guides.com^
 ||datinghaven.com^
 ||datinghunts.com^
@@ -273,6 +275,7 @@
 ||datingsites-reviewed.com^
 ||datingsitesreviews.com^
 ||dating-sites-singapore.com^
+||datingsitexperts.co.uk^
 ||datingsmokers.com^
 ||datingsugarmomma.net^
 ||datinguk.com^
@@ -379,6 +382,7 @@
 ||dial95.fr^
 ||dialweb.fr^
 ||diamond-dating.co.uk^
+||dilkarishta.com^
 ||directorydatingsites.com^
 ||disabledpassions.com^
 ||discut.fr^
@@ -404,6 +408,7 @@
 ||e-match.net^
 ||encontrar-pareja.net^
 ||encount.com^
+||engagedencounter.com^
 ||entremetteurs.com^
 ||epolishwife.com^
 ||erot.lv^
@@ -482,10 +487,12 @@
 ||globalladies.com^
 ||gma.bz^
 ||goflirtaround.com^
+||gomatch.com^
 ||gonnalove.com^
 ||gopromenad.com^
 ||gothscene.com^
 ||gotinder.com^
+||gotthem.com^
 ||greensingles.net^
 ||groony.com^
 ||guayu.com^
@@ -980,6 +987,7 @@
 ||swissflirt.ch^
 ||swissfriends.ch^
 ||sxeseis.gr^
+||tadum.com^
 ||tagged.com^
 ||tagstat.com^
 ||talksaferdating.com^

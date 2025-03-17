@@ -1,11 +1,11 @@
 !
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: List for blocking ads, tracking, scams & malware mainly on Swedish websites
-! Version: 1.0.14.82
+! Version: 1.0.14.88
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2025-02-01T05:06:04.223Z
+! Last modified: 2025-03-13T05:07:18.589Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.34
+! Compiled by @adguard/hostlist-compiler v1.0.35
 !
 127.0.0.1 1terms.com
 127.0.0.1 5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
@@ -77,7 +77,6 @@
 127.0.0.1 ads.vidoomy.com
 127.0.0.1 ads.viralize.tv
 127.0.0.1 adsby.bidtheatre.com
-127.0.0.1 adserver.adtech.de
 127.0.0.1 adserver.ddev.site
 127.0.0.1 adserver.infotorg.se
 127.0.0.1 adserver.so-rummet.se
@@ -210,7 +209,6 @@
 127.0.0.1 browser.covatic.io
 127.0.0.1 browser-http-intake.logs.datadoghq.com
 127.0.0.1 browser-http-intake.logs.datadoghq.eu
-127.0.0.1 bs.serving-sys.com
 127.0.0.1 btloader.com
 127.0.0.1 buzzador.com
 127.0.0.1 b-code.liadm.com
@@ -316,13 +314,18 @@
 127.0.0.1 cintnetworks.com
 127.0.0.1 cis.schibsted.com
 127.0.0.1 cision.com
+127.0.0.1 cl.adrecord.com
 127.0.0.1 cl.k5a.io
 127.0.0.1 classic.avantlink.com
 127.0.0.1 clevernt.com
 127.0.0.1 clickdimensions.com
 127.0.0.1 clientcdn.pushengage.com
+127.0.0.1 clk.tradedoubler.com
 127.0.0.1 cl-eu2.k5a.io
+127.0.0.1 cl-eu3.k5a.io
 127.0.0.1 cl-eu4.k5a.io
+127.0.0.1 cl-eu5.k5a.io
+127.0.0.1 cl-eu6.k5a.io
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 cncpt.dk
 127.0.0.1 cncptx.com
@@ -567,7 +570,6 @@
 127.0.0.1 macro.adnami2.io
 127.0.0.1 macro.adnami.io
 127.0.0.1 marfeel.com
-127.0.0.1 markhor.organicfruitapps.com
 127.0.0.1 match.adsby.bidtheatre.com
 127.0.0.1 match.adsrvr.org
 127.0.0.1 matomo.chsc.dk
@@ -740,7 +742,6 @@
 127.0.0.1 se.ads.justpremium.com
 127.0.0.1 se1.siteimprove.com
 127.0.0.1 se5.pliing.com
-127.0.0.1 secserv.adtech.de
 127.0.0.1 secure.adnxs.com
 127.0.0.1 secure.adtraction.com
 127.0.0.1 secure.curl7bike.com
@@ -748,7 +749,6 @@
 127.0.0.1 secure.reaktion.se
 127.0.0.1 secure.statcounter.com
 127.0.0.1 securepubads.g.doubleclick.net
-127.0.0.1 secure-ds.serving-sys.com
 127.0.0.1 seenthis.se
 127.0.0.1 sentry.outbid.io
 127.0.0.1 seo.compado.com
@@ -805,6 +805,7 @@
 127.0.0.1 static.ads-twitter.com
 127.0.0.1 statistics.heltenkelt.se
 127.0.0.1 statistik.blogg1.se
+127.0.0.1 statistik.sailguide.com
 127.0.0.1 statistik.svenskaakademien.se
 127.0.0.1 stats.agrar.nu
 127.0.0.1 stats.allabolag.se
@@ -827,7 +828,6 @@
 127.0.0.1 stats2.agilecrm.com
 127.0.0.1 stats2.ehandel.se
 127.0.0.1 statsapi.screen9.com
-127.0.0.1 statsapi.tiendeo.se
 127.0.0.1 step-dk.gscontxt.net
 127.0.0.1 sting.de17a.com
 127.0.0.1 storymedia.se
@@ -885,6 +885,7 @@
 127.0.0.1 track.yetric.app
 127.0.0.1 trackcmp.net
 127.0.0.1 tracker.gamedock.io
+127.0.0.1 tracker.metricool.com
 127.0.0.1 tracker.zummycloud.com
 127.0.0.1 tracker-v4.gamedock.io
 127.0.0.1 tracker.kollega.open-analytics.se
@@ -972,6 +973,7 @@
 127.0.0.1 tracking.klt.nu
 127.0.0.1 tracking.kpwebben.se
 127.0.0.1 tracking.kristianstadsbladet.se
+127.0.0.1 tracking.livesport.expressen.se
 127.0.0.1 tracking.ljusdalsposten.se
 127.0.0.1 tracking.ljusnan.se
 127.0.0.1 tracking.ltz.se
@@ -1088,7 +1090,6 @@
 127.0.0.1 www.effectivecreativeformat.com
 127.0.0.1 www.fakturino.se
 127.0.0.1 www.flashb.id
-127.0.0.1 www.guesssverige.com.se
 127.0.0.1 www.kundvisaren.se
 127.0.0.1 www.lduhtrp.net
 127.0.0.1 www.mymediaindex.com
